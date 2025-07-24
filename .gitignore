@@ -68,4 +68,4 @@ hugo_stats.json
 # Hugo themes (if using Git submodules or vendoring)
 # ========================
 /themes/*/
-/!themes/your-theme-folder/
+/!themes/blowfish/
