@@ -30,6 +30,9 @@ go.work.sum
 # Editor/IDE
 .idea/
 .vscode/
+.obsidian/workspace
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/main.js
 
 # ========================
 # System

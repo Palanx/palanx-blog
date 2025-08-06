@@ -1,5 +1,7 @@
-+++
-date = '2025-07-20T18:45:15-04:00'
-draft = true
-title = 'Masaman Curry'
-+++
+---
+title: Masaman Curry
+date: 2025-08-05T22:17:18-04:00
+draft: true
+tags: 
+description:
+---

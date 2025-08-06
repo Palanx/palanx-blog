@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "6f9d045e01e30c48",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd8ccb57fae12887",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97853b990c07a7d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/cook/mongolian-beef.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mongolian-beef"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c86783de87f9a580",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "785d7e928ae24adf",
+            "type": "leaf",
+            "state": {
+              "type": "hugo-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Hugo Preview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8abdbb4a086de535",
+    "type": "split",
+    "children": [
+      {
+        "id": "559bc36348876c57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3323a43f689d7117",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f93ab4d6c0298490",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bbf1bbfde7690d58",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0c40cbd010275f6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "80b9501132664012",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e6d423242c58c4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "318e010102a8894e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "be334569f26ca8b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f72dec26d3166c35",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "97853b990c07a7d9",
+  "lastOpenFiles": [
+    "content/cook/mongolian-beef.md",
+    "content/cook/masaman-curry.md",
+    "content/cook/basmati-rice.md",
+    "archetypes/default.md",
+    "content/cook/cosita-rica.md",
+    "public/cook/jajaja/index.html",
+    "public/cook/jajaja",
+    "public/cook/cosita-rica/index.html",
+    "public/cook/cosita-rica",
+    "public/cook/untitled/index.html",
+    "public/cook/untitled",
+    "content/cook/cosa-rica.md",
+    "public/cook/cosa-rica/index.html",
+    "public/cook/cosa-rica",
+    "content/cook/asdasdasdads.md",
+    "content/cook/asdasd.md",
+    "public/css/main.bundle.min.72dd52d10463a4c2741f2b70487edbea2aaf9b2342820c8b7e13d774c27a9e24808a038a8d12a089bd94c51f43ed548bac2cc6beef74002b117f5c8e54ecaa24.css",
+    "themes/blowfish/layouts/shortcodes/huggingface.html",
+    "themes/blowfish/exampleSite/content/users/bfe9e12b443e96f40b05b584166636f5/index.zh-cn.md",
+    "themes/blowfish/exampleSite/content/users/bfe9e12b443e96f40b05b584166636f5/index.ja.md",
+    "themes/blowfish/exampleSite/content/users/bfe9e12b443e96f40b05b584166636f5/index.md",
+    "themes/blowfish/exampleSite/content/users/bfe9e12b443e96f40b05b584166636f5/index.it.md",
+    "themes/blowfish/exampleSite/content/users/bfe9e12b443e96f40b05b584166636f5/feature.jpg",
+    "themes/blowfish/assets/icons/signal.svg",
+    "themes/blowfish/assets/icons/matrix.svg",
+    "themes/blowfish/assets/icons/keyoxide.svg",
+    "themes/blowfish/assets/icons/google-scholar.svg",
+    "themes/blowfish/assets/icons/fediverse.svg",
+    "themes/blowfish/assets/icons/a11y.svg",
+    "content/cook/masanan.md"
+  ]
+}
