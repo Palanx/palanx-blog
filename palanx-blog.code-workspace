@@ -1,0 +1,32 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    // Format settings
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    // Hugo-specific files
+    "[markdown]": {
+      "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    },
+    "[toml]": {
+      "editor.defaultFormatter": "taplo.toml"
+    },
+    // File associations (optional)
+    "files.associations": {
+      "*.toml": "toml",
+      "*.md": "markdown"
+    }
+  },
+  "extensions": {
+    "recommendations": [
+      "budparr.language-hugo-vscode",
+      "toml-lang.toml",
+      "yzhang.markdown-all-in-one",
+      "christian-kohler.path-intellisense"
+    ]
+  }
+}
