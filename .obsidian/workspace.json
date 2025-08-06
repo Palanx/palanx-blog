@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "c86783de87f9a580",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "785d7e928ae24adf",
-            "type": "leaf",
-            "state": {
-              "type": "hugo-preview-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Hugo Preview"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -184,24 +168,24 @@
   },
   "active": "97853b990c07a7d9",
   "lastOpenFiles": [
-    "content/cook/mongolian-beef.md",
-    "content/cook/masaman-curry.md",
     "content/cook/basmati-rice.md",
     "archetypes/default.md",
+    "content/cook/mongolian-beef.md",
+    "content/cook/masaman-curry.md",
+    "public/cook/ricebasmati-/index.html",
+    "public/cook/ricebasmati-",
+    "config/_default/menus.es.toml",
+    "config/_default/menus.en - Copy.toml",
+    "public/en/tags/index.html",
+    "public/en/tags/index.xml",
+    "public/en/series/index.xml",
+    "public/en/series/index.html",
+    "public/en/categories/index.html",
+    "public/en/categories/index.xml",
     "content/cook/cosita-rica.md",
-    "public/cook/jajaja/index.html",
-    "public/cook/jajaja",
-    "public/cook/cosita-rica/index.html",
-    "public/cook/cosita-rica",
-    "public/cook/untitled/index.html",
-    "public/cook/untitled",
     "content/cook/cosa-rica.md",
-    "public/cook/cosa-rica/index.html",
-    "public/cook/cosa-rica",
     "content/cook/asdasdasdads.md",
     "content/cook/asdasd.md",
-    "public/css/main.bundle.min.72dd52d10463a4c2741f2b70487edbea2aaf9b2342820c8b7e13d774c27a9e24808a038a8d12a089bd94c51f43ed548bac2cc6beef74002b117f5c8e54ecaa24.css",
-    "themes/blowfish/layouts/shortcodes/huggingface.html",
     "themes/blowfish/exampleSite/content/users/bfe9e12b443e96f40b05b584166636f5/index.zh-cn.md",
     "themes/blowfish/exampleSite/content/users/bfe9e12b443e96f40b05b584166636f5/index.ja.md",
     "themes/blowfish/exampleSite/content/users/bfe9e12b443e96f40b05b584166636f5/index.md",
