@@ -5,7 +5,6 @@
 theme = "blowfish"
 baseURL = "https://palanx.github.io/palanx-blog"
 defaultContentLanguage = "es"
-defaultContentLanguageInSubdir = false
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
