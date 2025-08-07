@@ -17,19 +17,19 @@
 [[main]]
   name = "Arroz Basmati"
   parent = "Cocina"
-  pageRef = "cook/basmati-rice"
+  pageRef = "es/cocina/arroz-basmati"
   weight = 10
 
 [[main]]
   name = "Masaman Curry"
   parent = "Cocina"
-  pageRef = "cook/masaman-curry"
+  pageRef = "es/cocina/masaman-curry"
   weight = 10
 
 [[main]]
   name = "Carne Mongoliana"
   parent = "Cocina"
-  pageRef = "cook/mongolian-beef"
+  pageRef = "es/cocina/carne-mongoliana"
   weight = 10
 
 #[[main]]

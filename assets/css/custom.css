@@ -1,0 +1,18 @@
+/* Make article content full-width and centered */
+.article-content {
+  max-width: 100% !important;
+  width: 100% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  text-align: left;
+}
+
+/* Make footer full width and centered */
+footer {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
