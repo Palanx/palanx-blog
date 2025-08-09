@@ -15,21 +15,9 @@
   weight = 10
 
 [[main]]
-  name = "Arroz Basmati"
+  name = "Risoto con Shiitake"
   parent = "Cocina"
-  pageRef = "es/cocina/arroz-basmati"
-  weight = 10
-
-[[main]]
-  name = "Masaman Curry"
-  parent = "Cocina"
-  pageRef = "es/cocina/masaman-curry"
-  weight = 10
-
-[[main]]
-  name = "Carne Mongoliana"
-  parent = "Cocina"
-  pageRef = "es/cocina/carne-mongoliana"
+  pageRef = "es/cocina/risotto-shiitake"
   weight = 10
 
 #[[main]]
