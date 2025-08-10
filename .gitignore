@@ -38,6 +38,7 @@ go.work.sum
 Thumbs.db
 ehthumbs.db
 Icon?
+!assets/icons
 
 # ========================
 # Logs / Debug
