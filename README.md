@@ -21,3 +21,7 @@ Use:
 hugo new --kind recipe recipes/chicken-masala.md
 ```
 > This will use archetypes/recipe.md.
+
+### Dependency
+* Blowfish Theme: v2.89.1
+* Hugo: v0.148.1-extended
