@@ -2,6 +2,7 @@
 title: "Los Seis Pilares de la Autoestima"
 date: 2025-08-10T05:54:17-04:00
 draft: false
+showTableOfContents: true
 showHero: true
 backgroundImage: "img/books/los-seis-pilares-de-la-autoestima.jpg"
 showSummary: true
