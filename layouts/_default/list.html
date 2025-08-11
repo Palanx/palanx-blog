@@ -4,7 +4,7 @@
   {{ $showToc := and $enableToc (in .TableOfContents "<ul") }}
 
   {{/* Hero */}}
-  {{ if site.Params.list.showHero | default false }}
+  {{ if .Params.showHero | default (site.Params.list.showHero | default false) }}
     {{ $heroStyle := print "hero/" site.Params.list.heroStyle ".html" }}
     {{ if templates.Exists ( printf "partials/%s" $heroStyle ) }}
       {{ partial $heroStyle . }}
