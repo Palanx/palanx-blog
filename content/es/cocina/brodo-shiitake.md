@@ -4,9 +4,12 @@ date: 2025-08-09T03:08:25-04:00
 draft: false
 showHero: true
 backgroundImage: "img/cook/brodo-shiitake.jpg"
-tags: []
-categories: ["cocina"]
-description: ""
+tags: ["cocina"]
+categories: ["Cocina"]
+summary: ""
+authors:
+  - "tomasmuniz"
+showAuthorsBadges : true
 ---
 
 {{< lead >}}
