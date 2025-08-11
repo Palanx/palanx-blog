@@ -9,6 +9,9 @@ showSummary: true
 tags: ["autoestima", "hábitos", "integridad", "responsabilidad"]
 categories: ["Psicología", "Autoestima"]
 summary: "Seis hábitos prácticos para construir y mantener una autoestima sólida y realista."
+authors:
+  - "nathanielbranden"
+showAuthorsBadges : true
 ---
 
 {{< lead >}}
