@@ -20,17 +20,33 @@
   pageRef = "es/cocina/risotto-shiitake"
   weight = 1
 
-  [[main]]
+[[main]]
   name = "Brodo de Shiitake"
   parent = "Cocina"
   pageRef = "es/cocina/brodo-shiitake"
   weight = 2
 
-  [[main]]
+[[main]]
   name = "Atún Sellado"
   parent = "Cocina"
   pageRef = "es/cocina/atun-sellado"
   weight = 3
+
+[[main]]
+  name = "Libros"
+  weight = 1
+
+[[main]]
+  name = "Psicologia"
+  parent = "Libros"
+  pageRef = "es/libros/psicologia"
+  weight = 1
+
+#[[main]]
+#  name = "Vinculos y Comunicación"
+#  parent = "Libros"
+#  pageRef = "es/libros/vinculos-y-comunicacion"
+#  weight = 2
 
 #[[main]]
 #  name = "Parent"

@@ -3,6 +3,7 @@ title: "Atún Sellado"
 date: 2025-08-09T03:21:26-04:00
 draft: false
 showHero: true
+backgroundImage: "img/cook/atun-sellado.jpg"
 tags: []
 categories: ["cocina"]
 description: ""
