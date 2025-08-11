@@ -32,6 +32,9 @@ article:
 author:
   byline_title: "Autor"
   byline_profession: "Profesión"
+  origin_title: "Origen"
+  birthdate_title: "Nacimiento"
+  deaddate_title: "Muerte"
 
 code:
   copy: "Copiar"

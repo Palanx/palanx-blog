@@ -38,6 +38,9 @@ a11y:
 author:
   byline_title: "Author"
   byline_profession: "Profession"
+  origin_title: "Origin"
+  birthdate_title: "Birth"
+  deaddate_title: "Dead"
 
 code:
   copy: "Copy"

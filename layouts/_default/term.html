@@ -39,7 +39,7 @@
           {{ $authorImage = $authorImage.Fill "192x192" }}
         {{ end }}
         <img
-          class="!mt-0 !mb-0 h-32 w-32 rounded-2xl ltr:mr-4 rtl:ml-4"
+          class="!mt-0 !mb-0 h-36 w-36 rounded-2xl ltr:mr-4 rtl:ml-4"
           width="128"
           height="128"
           src="{{ $authorImage.RelPermalink }}">
@@ -52,6 +52,27 @@
         </div>
         <div class="font-semibold text-lg leading-7 text-neutral-800 dark:text-neutral-300">
           {{ . }}
+        </div>
+      {{ end }}
+      {{ with .Params.author.origin | markdownify | emojify }}
+        <div class="text-base text-neutral-700 dark:text-neutral-400">
+          <span class="font-bold">{{ i18n "author.origin_title" | markdownify }}</span>
+          <span class="px-2 text-primary-500">&middot;</span>
+          {{ . }}
+        </div>
+      {{ end }}
+      {{ with .Params.author.birthDate }}
+        <div class="text-base text-neutral-700 dark:text-neutral-400">
+          <span class="font-bold">{{ i18n "author.birthdate_title" | markdownify }}</span>
+          <span class="px-2 text-primary-500">&middot;</span>
+          {{ partial "meta/date.html" . }}
+        </div>
+      {{ end }}
+      {{ with .Params.author.deadDate }}
+        <div class="text-base text-neutral-700 dark:text-neutral-400">
+          <span class="font-bold">{{ i18n "author.deaddate_title" | markdownify }}</span>
+          <span class="px-2 text-primary-500">&middot;</span>
+          {{ partial "meta/date.html" . }}
         </div>
       {{ end }}
       {{ with .Params.author.bio | markdownify }}
