@@ -8,40 +8,41 @@ backgroundImage: "img/books/los-seis-pilares-de-la-autoestima.jpg"
 showSummary: true
 tags: ["autoestima", "hábitos", "integridad", "responsabilidad"]
 categories: ["Psicología", "Autoestima"]
-summary: "Seis hábitos prácticos para construir y mantener una autoestima sólida y realista."
+summary: "Explica de forma práctica los seis hábitos fundamentales que sostienen una autoestima sana, útil para procesos de sanación personal y autoconfianza."
 authors:
   - "nathanielbranden"
 showAuthorsBadges : true
 ---
 
 {{< lead >}}
-Desarrollo de autoestima desde hábitos conscientes.
+Seis hábitos prácticos para construir y mantener una autoestima sólida y realista.
 {{< /lead >}}
+
+### Tema
+Desarrollo de autoestima desde hábitos conscientes.
 
 ### Enfoque
 Humanismo y responsabilidad personal — la autoestima se construye viviendo de forma coherente con principios, no es algo “innato”.
 
 ### Por qué leerlo
-- Divide la autoestima en **6 hábitos entrenables**  
-- Incluye **ejercicios diarios** para internalizar cambios  
-- Fomenta **auto-responsabilidad** y **auto-aceptación realista**
+- Divide la autoestima en **6 hábitos entrenables**.
+- Incluye **ejercicios diarios** para internalizar cambios.
+- Fomenta **auto-responsabilidad** y **auto-aceptación realista**.
 
 ### Objeciones comunes
-- **“Es demasiado autoexigente”**: son guías, no dogmas; ajusta a tu ritmo  
-- **“No sirve para traumas severos”**: combínalo con terapia para evitar auto-crítica excesiva
+- **“Es demasiado autoexigente”**: son guías, no dogmas; ajusta a tu ritmo.
+- **“No sirve para traumas severos”**: combínalo con terapia para evitar auto-crítica excesiva.
 
-### Recomendado para
-- Método estructurado para ganar autoconfianza
-- Autoafirmarse sin caer en arrogancia
+### Para quien
+Quien busca un método estructurado para ganar autoconfianza y capacidad de autoafirmarse sin caer en arrogancia.
 
-### No recomendado para
-- Quien busque solo motivación rápida
-- No quiera práctica sostenida
+### Para quien no
+Quien quiera solo motivación rápida; requiere práctica sostenida.
 
 ---
 
 ### Ideas clave
-- Autoestima ≠ sentirse bien siempre, sino **confianza en la propia mente** y **derecho a ser feliz**
+- Autoestima ≠ sentirse bien siempre, sino **confianza en la propia mente** y **derecho a ser feliz**.
 - Los seis pilares:
   1. **Vivir conscientemente**
   2. **Autoaceptación** 
@@ -49,15 +50,15 @@ Humanismo y responsabilidad personal — la autoestima se construye viviendo de 
   4. **Autoafirmación** 
   5. **Vivir con propósito** 
   6. **Integridad personal** 
-- La práctica diaria vale más que las **“revelaciones”** puntuales  
+- La práctica diaria vale más que las **“revelaciones”** puntuales.
 
 ### Cómo aplicarlo
-- **Mañana:** escribe 3 acciones alineadas con tus valores  
-- **Noche:** reflexiona en 3–5 frases sobre si actuaste según ellos  
-- **Escaneo de integridad:** detecta si alguna acción contradice tus valores 
+- **Mañana:** escribe 3 acciones alineadas con tus valores. 
+- **Noche:** reflexiona en 3–5 frases sobre si actuaste según ellos. 
+- **Escaneo de integridad:** detecta si alguna acción contradice tus valores.
 
 ---
 
 ### Libros complementarios
-- *Amar lo que es* — cuestiona creencias que debilitan autoestima  
-- *El arte de amargarse la vida* — detecta autosabotajes
+- *Amar lo que es* — cuestiona creencias que debilitan autoestima.
+- [*El arte de amargarse la vida*](/es/libros/psicologia/el-arte-de-amargarse-la-vida)  — detecta autosabotajes.

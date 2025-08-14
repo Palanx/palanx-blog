@@ -2,7 +2,7 @@
 title: "Nathaniel Branden"
 author:
   image: "img/authors/nathaniel-branden.jpg"
-  origin: "Canadiense"
+  origin: "Canada"
   profession: "Psicologo"
   birthDate: "1930-04-09"
   deadDate: "2014-12-03"
