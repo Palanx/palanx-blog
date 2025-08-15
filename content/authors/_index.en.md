@@ -1,3 +1,3 @@
 ---
-title: "Authors Taxonomy Listing Example"
+title: "Authors"
 ---

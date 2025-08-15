@@ -42,6 +42,12 @@
   pageRef = "es/libros/psicologia"
   weight = 1
 
+[[main]]
+  name = "Vinculos y Comunicación"
+  parent = "Libros"
+  pageRef = "es/libros/vinculos-y-comunicacion"
+  weight = 2
+
 #[[main]]
 #  name = "Vinculos y Comunicación"
 #  parent = "Libros"

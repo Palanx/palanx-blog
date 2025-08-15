@@ -5,6 +5,6 @@ author:
   origin: "Chile"
   profession: "Game Dev"
   birthDate: "1994-04-14"
-  bio: "Game Dev aficionado a la Cocina."
+  bio: "Game Dev aficionado a la cocina."
   social: []
 ---
