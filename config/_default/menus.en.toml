@@ -17,13 +17,13 @@
 [[main]]
   name = "Psychology"
   parent = "Books"
-  pageRef = "en/books/psychology"
+  pageRef = "books/psychology"
   weight = 1
 
 [[main]]
   name = "Relationships and Communication"
   parent = "Books"
-  pageRef = "en/books/relationships-and-communication"
+  pageRef = "books/relationships-and-communication"
   weight = 2
 
 #[[main]]
