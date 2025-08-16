@@ -29,7 +29,7 @@ jobs:
           # For maximum backward compatibility with Hugo modules
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
-          FIREBASE_API_KEY: '${{ secrets.FIREBASE_API_KEY }}'
+          HUGO_PARAMS_FIREBASE_APIKEY: ${{ secrets.HUGO_PARAMS_FIREBASE_APIKEY }}
         run: hugo --minify -d public
 
       - name: Deploy Production
