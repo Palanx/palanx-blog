@@ -11,16 +11,33 @@ Then manually go to http://localhost:1313.
 Hugo doesn’t auto-redirect to specific pages.
 
 ### Create Content
+
+#### Create default content
 Use:
 ``` bash
-hugo new posts/my-new-post.md
+hugo new content/my-new-post.md
 ```
 If `archetypes/default.md` exists, it will apply the template.
-Use:
+
+#### Create cooking recipe content
+For ES, use:
 ``` bash
-hugo new --kind recipe recipes/chicken-masala.md
+hugo new --kind cooking-recipe cook/chicken-masala.md
 ```
-> This will use archetypes/recipe.md.
+For EN, use:
+``` bash
+hugo new --kind cooking-recipe.en cook/chicken-masala.en.md
+```
+
+#### Create book recommendation content
+For ES, use:
+``` bash
+hugo new --kind book-recommendation books/how-to-clean-your-cheeks.md
+```
+For EN, use:
+``` bash
+hugo new --kind book-recommendation.en books/how-to-clean-your-cheeks.en.md
+```
 
 ### Dependency
 * Blowfish Theme: v2.89.1
