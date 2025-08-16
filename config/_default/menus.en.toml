@@ -11,8 +11,30 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Books"
+  name = "Cooking"
   weight = 1
+
+[[main]]
+  name = "Shiitake Risotto"
+  parent = "Cooking"
+  pageRef = "cook/risotto-shiitake"
+  weight = 1
+
+[[main]]
+  name = "Shiitake Broth"
+  parent = "Cooking"
+  pageRef = "cook/brodo-shiitake"
+  weight = 2
+
+[[main]]
+  name = "Seared Tuna"
+  parent = "Cooking"
+  pageRef = "cook/atun-sellado"
+  weight = 3
+
+[[main]]
+  name = "Books"
+  weight = 2
 
 [[main]]
   name = "Psychology"
@@ -25,6 +47,7 @@
   parent = "Books"
   pageRef = "books/relationships-and-communication"
   weight = 2
+
 
 #[[main]]
 #  name = "Blog"

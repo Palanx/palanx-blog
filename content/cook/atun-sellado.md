@@ -13,7 +13,7 @@ showAuthorsBadges : true
 ---
 
 {{< lead >}}
-Queda bien acompañándolo con [Risotto de Shiitake](/es/cocina/risotto-shiitake).
+Queda bien acompañándolo con [Risotto de Shiitake](/cook/risotto-shiitake).
 {{< /lead >}}
 
 # Ingredientes

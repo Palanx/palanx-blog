@@ -34,7 +34,7 @@
 
 [[main]]
   name = "Libros"
-  weight = 1
+  weight = 2
 
 [[main]]
   name = "Psicologia"
