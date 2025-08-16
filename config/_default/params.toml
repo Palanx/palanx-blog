@@ -138,7 +138,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   cardViewScreenWidth = false
 
 [firebase]
-  apiKey = "AIzaSyBwOYyHjHa8hWxpmm3HMxZXIVOu-NlWknY"
+  apiKey = "{{ getenv "FIREBASE_API_KEY" }}"
   authDomain = "palanx-blog.firebaseapp.com"
   projectId = "palanx-blog"
   storageBucket = "palanx-blog.firebasestorage.app"
