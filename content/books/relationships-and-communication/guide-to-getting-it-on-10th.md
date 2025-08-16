@@ -12,6 +12,7 @@ summary: "Guía cálida, accesible y exhaustiva sobre sexo para adultos, ampliad
 authors:
   - "pauljoannides"
 showAuthorsBadges : true
+weight: 5
 ---
 
 {{< lead >}}

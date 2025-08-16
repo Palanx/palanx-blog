@@ -5,6 +5,6 @@ author:
   origin: "Chile"
   profession: "Game Dev"
   birthDate: "1994-04-14"
-  bio: "Game Dev aficionado a la cocina."
+  bio: "Programador de videojuegos chileno, nihilista curioso, con gusto por la cocina y la aventura. Explora la existencia entre el humor y la introspección."
   social: []
 ---

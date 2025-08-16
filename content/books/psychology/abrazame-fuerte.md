@@ -12,6 +12,7 @@ summary: "Explica la terapia de pareja basada en el apego emocional y presenta s
 authors:
   - "suejohnson"
 showAuthorsBadges : true
+weight: 10
 ---
 
 {{< lead >}}

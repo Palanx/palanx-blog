@@ -12,6 +12,7 @@ summary: "An analysis of self-hatred, its causes, and how to reconcile with one'
 authors:
   - "theschooloflife"
 showAuthorsBadges : true
+weight: 7
 ---
 
 {{< lead >}}

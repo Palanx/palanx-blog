@@ -12,6 +12,7 @@ summary: "Desmitifica la idea de que el carisma es un don innato y ofrece técni
 authors:
   - "oliviafoxcabane"
 showAuthorsBadges : true
+weight: 4
 ---
 
 {{< lead >}}

@@ -12,6 +12,7 @@ summary: "How contemporary culture shapes trauma and stress, and which reconnect
 authors:
   - "gabormate"
 showAuthorsBadges : true
+weight: 3
 ---
 
 {{< lead >}}

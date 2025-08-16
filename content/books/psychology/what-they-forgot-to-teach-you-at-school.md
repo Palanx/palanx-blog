@@ -12,6 +12,7 @@ summary: "Herramientas emocionales y prácticas que no se enseñan en la escuela
 authors:
   - "theschooloflife"
 showAuthorsBadges : true
+weight: 8
 ---
 
 {{< lead >}}

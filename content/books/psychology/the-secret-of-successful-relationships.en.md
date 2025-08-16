@@ -12,6 +12,7 @@ summary: "Analyzes the key elements that sustain healthy relationships and how a
 authors:
   - "theschooloflife"
 showAuthorsBadges : true
+weight: 11
 ---
 
 {{< lead >}}

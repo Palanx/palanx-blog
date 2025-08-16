@@ -12,6 +12,7 @@ summary: "Una guía para comprender y reescribir la narrativa personal formada e
 authors:
   - "theschooloflife"
 showAuthorsBadges : true
+weight: 6
 ---
 
 {{< lead >}}

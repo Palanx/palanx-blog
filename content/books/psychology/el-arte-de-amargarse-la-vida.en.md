@@ -12,6 +12,7 @@ summary: "An ironic look at how our own thoughts and beliefs sabotage us. Very u
 authors:
   - "paulwatzlawick"
 showAuthorsBadges : true
+weight: 2
 ---
 
 {{< lead >}}

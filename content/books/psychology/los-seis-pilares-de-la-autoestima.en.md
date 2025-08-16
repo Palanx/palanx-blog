@@ -12,6 +12,7 @@ summary: "A practical explanation of the six fundamental habits that sustain hea
 authors:
   - "nathanielbranden"
 showAuthorsBadges : true
+weight: 1
 ---
 
 {{< lead >}}

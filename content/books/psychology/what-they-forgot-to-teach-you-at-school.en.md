@@ -12,6 +12,7 @@ summary: "Emotional and practical tools not taught in school but essential for a
 authors:
   - "theschooloflife"
 showAuthorsBadges : true
+weight: 8
 ---
 
 {{< lead >}}

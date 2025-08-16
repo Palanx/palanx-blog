@@ -12,6 +12,7 @@ summary: "Explores the tension between security and desire in long-term relation
 authors:
   - "estherperel"
 showAuthorsBadges : true
+weight: 1
 ---
 
 {{< lead >}}

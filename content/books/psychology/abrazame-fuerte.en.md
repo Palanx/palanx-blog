@@ -12,6 +12,7 @@ summary: "Explains emotionally focused couples therapy and presents seven key co
 authors:
   - "suejohnson"
 showAuthorsBadges : true
+weight: 10
 ---
 
 {{< lead >}}

@@ -65,8 +65,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [article]
   showDate = true
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showDateOnlyInArticle = false
   showDateUpdated = false
   showAuthor = false
@@ -107,7 +107,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showLikes = false
   showTableOfContents = false
   showCards = false
-  orderByWeight = false
+  orderByWeight = true
   groupByYear = true
   cardView = false
   cardViewScreenWidth = false
@@ -138,13 +138,13 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyBwOYyHjHa8hWxpmm3HMxZXIVOu-NlWknY"
+  authDomain = "palanx-blog.firebaseapp.com"
+  projectId = "palanx-blog"
+  storageBucket = "palanx-blog.firebasestorage.app"
+  messagingSenderId = "721735069449"
+  appId = "1:721735069449:web:6535b5e79af843faa42dd8"
+  measurementId = "G-XMBC0KV25N"
 
 [fathomAnalytics]
   # site = "ABC12345"

@@ -12,6 +12,7 @@ summary: "Una mirada irónica a cómo nuestros propios pensamientos y creencias 
 authors:
   - "paulwatzlawick"
 showAuthorsBadges : true
+weight: 2
 ---
 
 {{< lead >}}

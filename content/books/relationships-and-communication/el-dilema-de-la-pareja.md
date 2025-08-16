@@ -12,6 +12,7 @@ summary: "Explora la tensión entre seguridad y deseo en las relaciones a largo 
 authors:
   - "estherperel"
 showAuthorsBadges : true
+weight: 1
 ---
 
 {{< lead >}}

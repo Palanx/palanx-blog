@@ -12,6 +12,7 @@ summary: "A clear method to transform arguments into collaboration: observations
 authors:
   - "marshallbrosenberg"
 showAuthorsBadges : true
+weight: 3
 ---
 
 {{< lead >}}

@@ -12,6 +12,7 @@ summary: "A guide to understanding and rewriting the personal narrative shaped i
 authors:
   - "theschooloflife"
 showAuthorsBadges : true
+weight: 6
 ---
 
 {{< lead >}}

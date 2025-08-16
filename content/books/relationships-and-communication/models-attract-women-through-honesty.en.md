@@ -12,6 +12,7 @@ summary: "Proposes an approach based on authenticity and personal growth as the 
 authors:
   - "markmanson"
 showAuthorsBadges : true
+weight: 2
 ---
 
 {{< lead >}}

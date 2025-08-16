@@ -12,6 +12,7 @@ summary: "A warm, accessible, and exhaustive guide to sex for adults, updated wi
 authors:
   - "pauljoannides"
 showAuthorsBadges : true
+weight: 5
 ---
 
 {{< lead >}}

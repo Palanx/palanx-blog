@@ -12,6 +12,7 @@ summary: "Debunks the idea that charisma is an innate gift and offers practical 
 authors:
   - "oliviafoxcabane"
 showAuthorsBadges : true
+weight: 4
 ---
 
 {{< lead >}}

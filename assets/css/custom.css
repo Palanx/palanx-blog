@@ -32,3 +32,13 @@ footer {
 @media (min-width: 768px) {
   #hero { height: 100px; }
 }
+
+/* Home Headline */
+#home-headline{
+  max-width: 42rem;
+  margin: .5rem auto 0;
+  font-weight: 600;
+  font-size: 1.25rem;   /* ~20px */
+  line-height: 1.5;
+  text-align: center;
+}

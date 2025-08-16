@@ -12,6 +12,7 @@ summary: "Un análisis sobre el odio hacia uno mismo, sus causas y cómo reconci
 authors:
   - "theschooloflife"
 showAuthorsBadges : true
+weight: 7
 ---
 
 {{< lead >}}

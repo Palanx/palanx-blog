@@ -12,6 +12,7 @@ summary: "Cómo la cultura contemporánea modela el trauma y el estrés, y qué 
 authors:
   - "gabormate"
 showAuthorsBadges : true
+weight: 3
 ---
 
 {{< lead >}}

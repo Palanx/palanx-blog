@@ -13,6 +13,7 @@ authors:
   - "byronkatie"
   - "stephenmitchell"
 showAuthorsBadges : true
+weight: 9
 ---
 
 {{< lead >}}

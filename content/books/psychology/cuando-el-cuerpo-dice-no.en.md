@@ -12,6 +12,7 @@ summary: "How emotional repression and the lack of personal boundaries can affec
 authors:
   - "gabormate"
 showAuthorsBadges : true
+weight: 4
 ---
 
 {{< lead >}}

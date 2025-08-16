@@ -12,6 +12,7 @@ summary: "Propone un enfoque basado en la autenticidad y el crecimiento personal
 authors:
   - "markmanson"
 showAuthorsBadges : true
+weight: 2
 ---
 
 {{< lead >}}

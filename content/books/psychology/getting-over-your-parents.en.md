@@ -12,6 +12,7 @@ summary: "How to recognize and overcome emotional patterns inherited from your f
 authors:
   - "theschooloflife"
 showAuthorsBadges : true
+weight: 5
 ---
 
 {{< lead >}}

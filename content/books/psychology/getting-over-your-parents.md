@@ -12,6 +12,7 @@ summary: "Cómo reconocer y superar patrones emocionales heredados de la familia
 authors:
   - "theschooloflife"
 showAuthorsBadges : true
+weight: 5
 ---
 
 {{< lead >}}

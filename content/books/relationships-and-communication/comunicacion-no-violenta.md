@@ -12,6 +12,7 @@ summary: "Un método claro para transformar discusiones en colaboración: observ
 authors:
   - "marshallbrosenberg"
 showAuthorsBadges : true
+weight: 3
 ---
 
 {{< lead >}}

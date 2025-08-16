@@ -12,6 +12,7 @@ summary: "Explica de forma práctica los seis hábitos fundamentales que sostien
 authors:
   - "nathanielbranden"
 showAuthorsBadges : true
+weight: 1
 ---
 
 {{< lead >}}

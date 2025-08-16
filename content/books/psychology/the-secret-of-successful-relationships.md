@@ -12,6 +12,7 @@ summary: "Analiza los elementos clave que sostienen relaciones sanas y cómo el 
 authors:
   - "theschooloflife"
 showAuthorsBadges : true
+weight: 11
 ---
 
 {{< lead >}}
