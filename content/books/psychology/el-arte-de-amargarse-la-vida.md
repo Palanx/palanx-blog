@@ -55,6 +55,6 @@ Quien busque un manual paso a paso de *“cómo ser feliz”*.
 ---
 
 ### Libros complementarios
-- *Amar lo que es* - para técnicas de cuestionamiento.
-- [*Los seis pilares de la autoestima*](/es/libros/psicologia/los-seis-pilares-de-la-autoestima) - para construir hábitos nuevos.
+- [*Amar lo que es*](/es/books/psychology/amar-lo-que-es) - para técnicas de cuestionamiento.
+- [*Los seis pilares de la autoestima*](/es/books/psychology/los-seis-pilares-de-la-autoestima) - para construir hábitos nuevos.
 

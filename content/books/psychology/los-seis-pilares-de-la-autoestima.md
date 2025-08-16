@@ -61,5 +61,5 @@ Quien quiera solo motivación rápida; requiere práctica sostenida.
 ---
 
 ### Libros complementarios
-- *Amar lo que es* — cuestiona creencias que debilitan autoestima.
-- [*El arte de amargarse la vida*](/es/libros/psicologia/el-arte-de-amargarse-la-vida)  — detecta autosabotajes.
+- [*Amar lo que es*](/es/books/psychology/amar-lo-que-es) — cuestiona creencias que debilitan autoestima.
+- [*El arte de amargarse la vida*](/es/books/psychology/el-arte-de-amargarse-la-vida)  — detecta autosabotajes.

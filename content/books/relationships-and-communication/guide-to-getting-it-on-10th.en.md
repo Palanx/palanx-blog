@@ -55,4 +55,5 @@ Those seeking formal academic text or technical manual—this is a human and acc
 ---
 
 ### Complementary Books
-- *El Dilema de la Pareja* — to keep desire alive in long-term relationships.
+- [*Models: Attract Women Through Honesty*](/en/books/relationships-and-communication/models-attract-women-through-honesty) — for an authenticity- and desire-focused approach.
+- [*El Dilema de la Pareja*](/en/books/relationships-and-communication/el-dilema-de-la-pareja) — to keep desire alive in long-term relationships.

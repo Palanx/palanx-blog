@@ -55,5 +55,5 @@ Quien busque solo consejos prácticos sin introspección profunda.
 ---
 
 ### Libros complementarios
-- *How to Overcome Your Childhood* — para trabajar la narrativa personal.
-- *Abrázame Fuerte* — para sanar vínculos adultos.
+- [*How to Overcome Your Childhood*](/es/books/psychology/how-to-overcome-your-childhood) — para trabajar la narrativa personal.
+- [*Abrázame fuerte: Siete Conversaciones*](/es/books/psychology/abrazame-fuerte) — para sanar vínculos adultos.

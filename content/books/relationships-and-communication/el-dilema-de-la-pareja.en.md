@@ -55,5 +55,5 @@ Those unwilling to question traditional models of love and sexuality.
 ---
 
 ### Complementary Books
-- *Models: Attract Women Through Honesty* — for an authenticity- and desire-focused approach.
-- *Guide to Getting It On* — to expand sexual repertoire with respect and humor.
+- [*Models: Attract Women Through Honesty*](/en/books/relationships-and-communication/models-attract-women-through-honesty) — for an authenticity- and desire-focused approach.
+- [*Guide to Getting It On*](/en/books/relationships-and-communication/guide-to-getting-it-on-10th) — to expand sexual repertoire with respect and humor.

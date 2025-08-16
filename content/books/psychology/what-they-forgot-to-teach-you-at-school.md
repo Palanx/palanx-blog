@@ -55,5 +55,5 @@ Quien busque un enfoque técnico o especializado sobre un único tema.
 ---
 
 ### Libros complementarios
-- *On Self-Hatred* — para trabajar la autocrítica.
-- *Comunicación no violenta* — para mejorar la calidad de las interacciones.
+- [*On Self-Hatred*](/es/books/psychology/on-self-hatred) — para trabajar la autocrítica.
+- [*Comunicación no violenta*](/es/books/relationships-and-communication/comunicacion-no-violenta) — para mejorar la calidad de las interacciones.

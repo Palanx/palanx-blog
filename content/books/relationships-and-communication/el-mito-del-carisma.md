@@ -55,5 +55,5 @@ Quien busque “trucos rápidos” sin disposición a practicar.
 ---
 
 ### Libros complementarios
-- *Comunicación no violenta* — para empatía y claridad en el lenguaje.
-- *Abrázame fuerte* — para fortalecer vínculos emocionales.
+- [*Comunicación no violenta*](/es/books/relationships-and-communication/comunicacion-no-violenta) — para empatía y claridad en el lenguaje.
+- [*Abrázame fuerte: Siete Conversaciones*](/es/books/psychology/abrazame-fuerte) — para fortalecer vínculos emocionales.

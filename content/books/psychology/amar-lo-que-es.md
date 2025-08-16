@@ -60,5 +60,5 @@ Quien busque un enfoque clínico tradicional o evidencia estrictamente experimen
 ---
 
 ### Libros complementarios
-- *On Self-Hatred* — para profundizar en la autocompasión.
-- *Los seis pilares de la autoestima* — para fortalecer la confianza personal.
+- [*On Self-Hatred*](/es/books/psychology/on-self-hatred) — para profundizar en la autocompasión.
+- [*Los seis pilares de la autoestima*](/es/books/psychology/los-seis-pilares-de-la-autoestima) — para fortalecer la confianza personal.

@@ -55,5 +55,5 @@ Those seeking a manual of practical tips without deep emotional work.
 ---
 
 ### Complementary Books
-- *Getting Over Your Parents* — to identify family patterns.
-- *Amar lo que es* — to question limiting beliefs.
+- [*Getting Over Your Parents*](/en/books/psychology/getting-over-your-parents) — to identify family patterns.
+- [*Amar lo que es*](/en/books/psychology/amar-lo-que-es) — to question limiting beliefs.

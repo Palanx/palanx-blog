@@ -55,5 +55,5 @@ Quienes busquen texto académico formal o manual técnico — este es un enfoque
 ---
 
 ### Libros complementarios
-- *Guide to Getting It On – 10th Edition* — para conocimiento técnico y divertido.
-- *El Dilema de la Pareja* — para mantener el deseo en contextos de largo plazo.
+- [*Models: Attract Women Through Honesty*](/es/books/relationships-and-communication/models-attract-women-through-honesty) — para un enfoque en autenticidad y deseo.
+- [*El Dilema de la Pareja*](/es/books/relationships-and-communication/el-dilema-de-la-pareja) — para mantener el deseo en contextos de largo plazo.

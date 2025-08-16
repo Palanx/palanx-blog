@@ -13,7 +13,7 @@ showAuthorsBadges : true
 ---
 
 {{< lead >}}
-Pairs well with [Shiitake Risotto](/cook/risotto-shiitake).
+Pairs well with [Shiitake Risotto](/en/cook/risotto-shiitake).
 {{< /lead >}}
 
 # Ingredients

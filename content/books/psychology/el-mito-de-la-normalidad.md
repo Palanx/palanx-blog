@@ -56,5 +56,5 @@ Quien busque soluciones rápidas sin explorar su historia personal o contexto.
 ---
 
 ### Libros complementarios
-- *Cuando el cuerpo dice NO* - para ejemplos clínicos y casos prácticos.
-- *On Self-Hatred* - para trabajar la autocrítica crónica.
+- [*Cuando el cuerpo dice NO*](/es/books/psychology/cuando-el-cuerpo-dice-no) - para ejemplos clínicos y casos prácticos.
+- [*On Self-Hatred*](/es/books/psychology/on-self-hatred) - para trabajar la autocrítica crónica.

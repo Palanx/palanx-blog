@@ -55,5 +55,5 @@ Quien busque un enfoque superficial o meramente motivacional.
 ---
 
 ### Libros complementarios
-- *Amar lo que es* — para cuestionar creencias limitantes.
-- *Cuando el cuerpo dice NO* — para entender cómo la autonegación impacta la salud.
+- [*Amar lo que es*](/es/books/psychology/amar-lo-que-es) — para cuestionar creencias limitantes.
+- [*Cuando el cuerpo dice NO*](/es/books/psychology/cuando-el-cuerpo-dice-no) — para entender cómo la autonegación impacta la salud.

@@ -1,5 +1,5 @@
 ---
-title: "The Charisma Myth"
+title: "El mito del carisma"
 date: 2025-08-15T14:05:00-04:00
 draft: false
 showTableOfContents: true
@@ -55,5 +55,5 @@ Those seeking “quick tricks” without willingness to practice.
 ---
 
 ### Complementary Books
-- *Nonviolent Communication* — for empathy and language clarity.
-- *Hold Me Tight* — for strengthening emotional bonds.
+- [*Comunicación no violenta*](/en/books/relationships-and-communication/comunicacion-no-violenta) — for empathy and language clarity.
+- [*Abrázame fuerte: Siete Conversaciones*](/en/books/psychology/abrazame-fuerte) — for strengthening emotional bonds.

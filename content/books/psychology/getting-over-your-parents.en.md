@@ -55,5 +55,5 @@ Those looking for only practical advice without deep introspection.
 ---
 
 ### Complementary Books
-- *How to Overcome Your Childhood* — for working on personal narrative.
-- *Abrázame Fuerte* — for healing adult relationships.
+- [*How to Overcome Your Childhood*](/en/books/psychology/how-to-overcome-your-childhood) — for working on personal narrative.
+- [*Abrázame fuerte: Siete Conversaciones*](/en/books/psychology/abrazame-fuerte) — for healing adult relationships.

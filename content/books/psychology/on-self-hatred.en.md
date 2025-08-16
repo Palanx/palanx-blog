@@ -55,5 +55,5 @@ Those seeking a superficial or purely motivational approach.
 ---
 
 ### Complementary Books
-- *Amar lo que es* — to question limiting beliefs.
-- *Cuando el cuerpo dice NO* — to understand how self-denial impacts health.
+- [*Amar lo que es*](/en/books/psychology/amar-lo-que-es) — to question limiting beliefs.
+- [*Cuando el cuerpo dice NO*](/en/books/psychology/cuando-el-cuerpo-dice-no) — to understand how self-denial impacts health.

@@ -55,5 +55,5 @@ Quien solo quiera consejos rápidos para “ligar” sin cambios personales.
 ---
 
 ### Libros complementarios
-- *El Dilema de la Pareja* — para comprender el deseo y la intimidad a largo plazo.
-- *The Secret of Successful Relationships* — para integrar expectativas realistas en las relaciones.
+- [*El Dilema de la Pareja*](/es/books/relationships-and-communication/el-dilema-de-la-pareja) — para comprender el deseo y la intimidad a largo plazo.
+- [*The Secret of Successful Relationships*](/es/books/psychology/the-secret-of-successful-relationships) — para integrar expectativas realistas en las relaciones.

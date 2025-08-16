@@ -55,5 +55,5 @@ Those who just want quick tips to “pick up” without personal change.
 ---
 
 ### Complementary Books
-- *El Dilema de la Pareja* — to understand desire and intimacy in long-term relationships.
-- *The Secret of Successful Relationships* — to integrate realistic expectations in relationships.
+- [*El Dilema de la Pareja*](/en/books/relationships-and-communication/el-dilema-de-la-pareja) — to understand desire and intimacy in long-term relationships.
+- [*The Secret of Successful Relationships*](/en/books/psychology/the-secret-of-successful-relationships) — to integrate realistic expectations in relationships.

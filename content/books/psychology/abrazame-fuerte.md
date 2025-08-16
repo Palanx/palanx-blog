@@ -55,5 +55,5 @@ Relaciones con abuso o violencia activa, donde se requiere intervención profesi
 ---
 
 ### Libros complementarios
-- *Comunicación no violenta* — para mejorar el lenguaje de las necesidades.
-- *The Secret of Successful Relationships* — para integrar expectativas realistas.
+- [*Comunicación no violenta*](/es/books/relationships-and-communication/comunicacion-no-violenta) — para mejorar el lenguaje de las necesidades.
+- [*The Secret of Successful Relationships*](/es/books/psychology/the-secret-of-successful-relationships) — para integrar expectativas realistas.

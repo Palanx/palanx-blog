@@ -55,5 +55,5 @@ Those looking for strategies to “win” arguments or manipulate.
 ---
 
 ### Complementary Books
-- *El mito del carisma* — to develop presence and warmth in social interactions.
-- *Abrázame fuerte: Siete Conversaciones* — to strengthen emotional bonds.
+- [*El mito del carisma*](/en/books/relationships-and-communication/el-mito-del-carisma) — to develop presence and warmth in social interactions.
+- [*Abrázame fuerte: Siete Conversaciones*](/en/books/psychology/abrazame-fuerte) — to strengthen emotional bonds.

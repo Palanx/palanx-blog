@@ -55,5 +55,5 @@ Quien busque estrategias para “ganar” discusiones o manipular.
 ---
 
 ### Libros complementarios
-- *El mito del carisma* — para desarrollar presencia y calidez social.
-- *Abrázame fuerte: Siete Conversaciones* — para fortalecer vínculos emocionales.
+- [*El mito del carisma*](/es/books/relationships-and-communication/el-mito-del-carisma) — para desarrollar presencia y calidez social.
+- [*Abrázame fuerte: Siete Conversaciones*](/es/books/psychology/abrazame-fuerte) — para fortalecer vínculos emocionales.

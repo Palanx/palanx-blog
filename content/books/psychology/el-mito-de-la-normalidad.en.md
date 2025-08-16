@@ -56,5 +56,5 @@ Those seeking quick fixes without exploring personal history or context.
 ---
 
 ### Complementary Books
-- *Cuando el cuerpo dice NO* — for clinical examples and practical cases.
-- *On Self-Hatred* — to work on chronic self-criticism.
+- [*Cuando el cuerpo dice NO*](/en/books/psychology/cuando-el-cuerpo-dice-no) — for clinical examples and practical cases.
+- [*On Self-Hatred*](/en/books/psychology/on-self-hatred) — to work on chronic self-criticism.

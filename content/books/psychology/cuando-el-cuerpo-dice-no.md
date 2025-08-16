@@ -55,5 +55,5 @@ Quien busque explicaciones puramente biomédicas sin considerar el contexto emoc
 ---
 
 ### Libros complementarios
-- *El mito de la normalidad* — para contexto cultural y social.
-- *On Self-Hatred* — para trabajar la autocrítica y el desgaste emocional.
+- [*El mito de la normalidad*](/es/books/psychology/el-mito-de-la-normalidad) — para contexto cultural y social.
+- [*On Self-Hatred*](/es/books/psychology/on-self-hatred) — para trabajar la autocrítica y el desgaste emocional.

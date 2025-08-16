@@ -13,7 +13,7 @@ showAuthorsBadges : true
 ---
 
 {{< lead >}}
-Queda bien acompañándolo con [Atún Sellado](/es/cocina/atun-sellado). <br/>
+Queda bien acompañándolo con [Atún Sellado](/es/cook/atun-sellado). <br/>
 {{< /lead >}}
 
 # Ingredientes
@@ -24,7 +24,7 @@ Queda bien acompañándolo con [Atún Sellado](/es/cocina/atun-sellado). <br/>
 * **120 g** mantequilla sin sal
 * **100 g** queso parmesano rallado
 * **1 taza** vino blanco
-* **1.5 litros** [Brodo de Shiitake](/es/cocina/brodo-shiitake) o caldo de pollo
+* **1.5 litros** [Brodo de Shiitake](/es/cook/brodo-shiitake) o caldo de pollo
 * **1** hoja laurel
 * Aceite de oliva
 

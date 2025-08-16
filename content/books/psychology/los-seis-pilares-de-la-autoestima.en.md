@@ -61,5 +61,5 @@ Those wanting only quick motivation; it requires sustained practice.
 ---
 
 ### Complementary Books
-- *Amar lo que es* — questions beliefs that weaken self-esteem.
+- [*Amar lo que es*](/en/books/psychology/amar-lo-que-es) — questions beliefs that weaken self-esteem.
 - [*El arte de amargarse la vida*](/en/books/psychology/el-arte-de-amargarse-la-vida) — detects self-sabotage.

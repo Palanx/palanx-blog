@@ -55,5 +55,5 @@ Quien busque fórmulas rápidas o infalibles para “garantizar” el amor.
 ---
 
 ### Libros complementarios
-- *Abrázame fuerte: Siete Conversaciones* — para trabajar la conexión de pareja.
-- *Comunicación no violenta* — para mejorar la calidad del diálogo.
+- [*Abrázame fuerte: Siete Conversaciones*](/es/books/psychology/abrazame-fuerte) — para trabajar la conexión de pareja.
+- [*Comunicación no violenta*](/es/books/relationships-and-communication/comunicacion-no-violenta) — para mejorar la calidad del diálogo.

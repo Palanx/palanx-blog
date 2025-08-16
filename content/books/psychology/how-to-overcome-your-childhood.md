@@ -55,5 +55,5 @@ Quien busque un manual de consejos prácticos sin trabajo emocional profundo.
 ---
 
 ### Libros complementarios
-- *Getting Over Your Parents* — para identificar patrones familiares.
-- *Amar lo que es* — para cuestionar creencias limitantes.
+- [*Getting Over Your Parents*](/es/books/psychology/getting-over-your-parents) — para identificar patrones familiares.
+- [*Amar lo que es*](/es/books/psychology/amar-lo-que-es) — para cuestionar creencias limitantes.

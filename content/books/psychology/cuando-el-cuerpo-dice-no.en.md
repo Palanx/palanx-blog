@@ -55,5 +55,5 @@ Those seeking purely biomedical explanations without considering emotional conte
 ---
 
 ### Complementary Books
-- *El mito de la normalidad* — for cultural and social context.
-- *On Self-Hatred* — to work on self-criticism and emotional exhaustion.
+- [*El mito de la normalidad*](/en/books/psychology/el-mito-de-la-normalidad) — for cultural and social context.
+- [*On Self-Hatred*](/en/books/psychology/on-self-hatred) — to work on self-criticism and emotional exhaustion.

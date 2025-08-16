@@ -13,7 +13,7 @@ showAuthorsBadges : true
 ---
 
 {{< lead >}}
-Pairs well with [Seared Tuna](/cook/atun-sellado). <br/>
+Pairs well with [Seared Tuna](/en/cook/atun-sellado). <br/>
 {{< /lead >}}
 
 # Ingredients
@@ -24,7 +24,7 @@ Pairs well with [Seared Tuna](/cook/atun-sellado). <br/>
 * **120 g** unsalted butter
 * **100 g** grated parmesan cheese
 * **1 cup** white wine
-* **1.5 liters** [Shiitake Broth](/cook/brodo-shiitake) or chicken stock
+* **1.5 liters** [Shiitake Broth](/en/cook/brodo-shiitake) or chicken stock
 * **1** bay leaf
 * Olive oil
 

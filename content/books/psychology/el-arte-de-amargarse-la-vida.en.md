@@ -55,5 +55,5 @@ Those looking for a step-by-step manual on *“how to be happy”*.
 ---
 
 ### Complementary Books
-- *Amar lo que es* — for questioning techniques.
+- [*Amar lo que es*](/en/books/psychology/amar-lo-que-es) — for questioning techniques.
 - [*Los seis pilares de la autoestima*](/en/books/psychology/los-seis-pilares-de-la-autoestima) — for building new habits.

@@ -60,5 +60,5 @@ Those seeking a traditional clinical approach or strictly experimental evidence.
 ---
 
 ### Complementary Books
-- *On Self-Hatred* — to deepen self-compassion.
-- *Los seis pilares de la autoestima* — to strengthen personal confidence.
+- [*On Self-Hatred*](/en/books/psychology/on-self-hatred) — to deepen self-compassion.
+- [*Los seis pilares de la autoestima*](/en/books/psychology/los-seis-pilares-de-la-autoestima) — to strengthen personal confidence.
