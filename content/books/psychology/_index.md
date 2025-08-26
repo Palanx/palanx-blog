@@ -9,8 +9,13 @@ description: ""
 ---
 
 {{< lead >}}
-Esta sección está dedicada a los libros de psicología que recomiendo, junto con las experiencias personales que me motivaron a hacerlo.
+Aquí recomiendo libros de psicología, pero no quiero darte solo la lista sin contarte antes por qué los recomiendo.  
+Lo que leerás a continuación forma parte de mi experiencia personal.
+
+Si prefieres saltar directo a la lista, haz clic aquí [Ir directo a la lista de libros](#libros)  
 {{< /lead >}}
+
+---
 
 En algún momento todos nos preguntamos cosas existenciales: *¿cuál es mi propósito?, ¿cómo funciona lo que me rodea?, ¿qué rol juego en este mundo?, ¿será Silent Hill Remake un buen juego?*  
 La verdad es que nadie tiene respuestas absolutas. Llegamos a este mundo sin manual de instrucciones y lo único que tenemos para orientarnos son nuestras experiencias, lo que nos enseñaron y nuestro pensamiento crítico. Eso es lo que moldea nuestra realidad, pero al ser tan subjetiva, mis palabras pueden sonar “bien” o “mal” según los ojos que las lean.  
@@ -69,3 +74,5 @@ Solicitar acceso a los libros de forma digital
 {{< /button >}}
 
 ---
+
+### Libros

@@ -9,8 +9,13 @@ description: ""
 ---
 
 {{< lead >}}
-This section is dedicated to the psychology books I recommend, along with the personal experiences that motivated me to do so.
+Here I recommend psychology books, but I don’t want to just throw you a list without telling you why I recommend them.  
+What you’ll read below is part of my personal experience.
+
+If you’d rather skip straight to the list, click here: [Jump to the list of books](#books) 
 {{< /lead >}}
+
+---
 
 At some point we all ask ourselves existential questions: *What is my purpose? How does the world around me work? What role do I play in all of this? Will Silent Hill Remake actually be a good game?*  
 The truth is, nobody has absolute answers. We all came into this world without a manual, and the only things we have to guide us are our experiences, what we’ve been taught, and our critical thinking. That’s what shapes our reality, but because it’s so subjective, my words may sound “right” or “wrong” depending on who’s reading them.  
@@ -69,3 +74,5 @@ Request access to the digital books
 {{< /button >}}
 
 ---
+
+### Books
