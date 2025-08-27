@@ -9,18 +9,18 @@ description: ""
 ---
 
 {{< lead >}}
-Here I recommend psychology books, but I don’t want to just throw you a list without telling you why I recommend them.  
+Here I recommend psychology books, but I don’t want to just give you the list without first telling you why I recommend them.  
 What you’ll read below is part of my personal experience.
 
-If you’d rather skip straight to the list, click here: [Jump to the list of books](#books) 
+If you don’t give a fuck and you’d rather skip straight to the list, click here [Go straight to the list of books](#books)  
 {{< /lead >}}
 
 ---
 
-At some point we all ask ourselves existential questions: *What is my purpose? How does the world around me work? What role do I play in all of this? Will Silent Hill Remake actually be a good game?*  
-The truth is, nobody has absolute answers. We all came into this world without a manual, and the only things we have to guide us are our experiences, what we’ve been taught, and our critical thinking. That’s what shapes our reality, but because it’s so subjective, my words may sound “right” or “wrong” depending on who’s reading them.  
+At some point we all ask ourselves existential questions: *What is my purpose? How does the world around me work? What role do I play in this world? Will Silent Hill Remake actually be a good game?*  
+The truth is, nobody has absolute answers. We came into this world without a manual, and the only things we have to guide us are our experiences, what we’ve been taught, and our critical thinking. That’s what shapes our reality, but because it’s so subjective, my words may sound “right” or “wrong” depending on the eyes that read them.  
 
-I’m not here to convince anyone or prove that “I’m right.” I just want to share what I’ve discovered over the past year: a big part of what I thought I knew about myself was wrong. And yes, humans are actually pretty damn predictable when you have the information needed to anticipate their reactions.  
+I’m not here to convince anyone or prove that “I’m right.” I just want to share what I discovered over the past year: a big part of what I thought I knew about myself was wrong. And yes, humans are actually pretty damn predictable when you have the information needed to anticipate their responses.  
 
 I’m deeply grateful to those who helped me see the importance of dedicating time and resources not only to therapy, but also to reflecting and learning about psychology. I used to see it only as “technical literature” or “motivational garbage.” How wrong I was. Today I’m glad I was so stupidly wrong.  
 
@@ -28,16 +28,16 @@ I’m deeply grateful to those who helped me see the importance of dedicating ti
 
 ### The origin of problems  
 
-It doesn’t matter how much therapy you do or how many pills you take: if you don’t accept the root of your problems, any reasoning will be predisposed to maintain the *status quo*. The result: blaming external factors, confusion, and hopelessness.  
+It doesn’t matter how much therapy you do or how many meds you take: if you don’t accept the root of your problems, any reasoning will be predisposed to maintain the *status quo*. The result: blaming external factors, confusion, and hopelessness.  
 
 And here’s the uncomfortable truth: **most of the time, the problem is you**.  
-Of course, there are people who are really fucked in every possible way, and it wouldn’t be fair to minimize that. But let’s be honest: in most cases, it’s the way we think and act that multiplies our misery.  
+Of course, there are people who are really fucked in every possible way, and it wouldn’t be fair to minimize that. But let’s be honest: in most cases, it’s our way of thinking and acting that multiplies our misery.  
 
-In my case, even when I achieved goals, the question always popped up: *“And now, what the fuck is next?”*. I couldn’t accept that I deserved the good things happening to me, so I kept sabotaging myself over and over. Everything changed after a painful event this year: I understood that I was the main cause of my own misery. It didn’t matter what others did or said for me: **I alone was responsible for the consequences of my decisions**.  
+In my case, even when I achieved goals, the question always popped up: *“And now, what the fuck is next?”*. I couldn’t accept that I deserved the good things happening to me, so I kept sabotaging myself over and over again. Everything changed after a painful event this year: I realized that I was the main cause of my own misery. It didn’t matter what others did or said for me: **I alone was responsible for the consequences of my decisions**.  
 
-That day I didn’t have the theory or the practice, but accepting that I was the problem was the foundation of everything. From there I started to recognize the mental and emotional armor I had built as a defense. At first it was painful, but with time the process stopped being horrifying and began to feel liberating.  
+That day I had no theory or practice, but accepting that I was the problem was the foundation of everything. From there I began to recognize the mental and emotional armor I had built as a defense. At first it was painful, but with time the process stopped being horrifying and started to feel liberating.  
 
-On that path I’m very grateful to my psychiatrist, who recommended *El arte de amargarse la vida*. That book helped me identify how I was generating my own misery. It didn’t give me all the tools to stop doing it, but it did teach me to recognize sabotage patterns and give them a name. And that was enough to start changing.  
+On that path I’m very grateful to my psychiatrist, who recommended *El arte de amargarse la vida*. That book helped me identify how I myself was generating my misery. It didn’t give me all the tools to stop doing it, but it did teach me to recognize sabotage patterns and give them a name. Knowing this, I was able to start searching for the concepts and theories I needed to truly understand how those mechanisms worked. And that was enough to start wanting to change.  
 
 ---
 
@@ -49,7 +49,9 @@ The second book that was recommended to me was *Los Seis Pilares de la Autoestim
 First, accept that you are the origin of your own misery (*El arte de amargarse la vida*).  
 Then, build solid self-esteem (*Los Seis Pilares de la Autoestima*).  
 
-Understanding that “I am enough to achieve what I want” and that “I deserve the reward for my actions” radically changes the way we act. From there we can stop sabotaging ourselves, act according to our purpose and values, and —finally— live without trying to please others, but ourselves instead.  
+It’s not enough to logically understand that “I am enough to achieve what I want” and that “I deserve the reward for my actions.” That understanding is only the first step. Self-esteem doesn’t work only from reason —it needs to be fed and trained: through positive reinforcement, real experiences, and the constant learning that those phrases are not just words, but facts that become validated in practice.  
+
+It’s only in that process —when what I know becomes what I feel— that we stop sabotaging ourselves, start acting according to our purpose and values, and —finally— can live without the need to please others, but ourselves instead.  
 
 That said, it’s important to clarify: severe traumas **must** be treated by psychologists specialized in trauma. Overcoming them alone is extremely difficult. That’s why I always say: therapy is not optional.  
 
@@ -59,7 +61,7 @@ That said, it’s important to clarify: severe traumas **must** be treated by ps
 
 In addition to these two initial books, I’ve classified my recommendations by categories so that each person can prioritize according to their current situation.  
 
-For example: if my childhood experiences still weigh heavily on me, I would lean towards a book in the **Childhood Trauma** category instead of one in **Life Skills**. The latter can be useful, yes, but childhood traumas are deep roots that affect everything else. Time and energy are limited: don’t try to tackle everything at once. **Prioritize based on what’s most important and necessary in your life right now.**  
+For example: if my childhood experiences still weigh heavily on me, I would lean toward a book in the **Childhood Trauma** category rather than one in **Life Skills**. The latter can be useful, yes, but childhood traumas are deep roots that affect everything else. Time and energy are limited: don’t try to tackle everything at once. **Prioritize based on what’s most important and most necessary in your life right now.**  
 
 ---
 
@@ -70,7 +72,7 @@ I’m not here to provide a universal truth or convert anyone to “my way of th
 If you’re at a similar point, maybe these books can also be a good place to start.  
 
 {{< button href="https://drive.google.com/drive/folders/1Pr0_d4qgcj32N--f_Z31wsW6SqNRpRG1?usp=sharing" target="_blank" rel="noopener noreferrer nofollow" >}}
-Request access to the digital books
+View Digital Books
 {{< /button >}}
 
 ---
