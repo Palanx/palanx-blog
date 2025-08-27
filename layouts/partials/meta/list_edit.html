@@ -1,0 +1,45 @@
+{{- /* Safe edit link for list/section pages */ -}}
+{{- $page := . -}}
+{{- $base := or .Params.editURL .Site.Params.list.editURL "#" -}}
+{{- $url := $base -}}
+
+{{- /* ¿Se debe anexar la ruta? page param gana; si no, usa site.list.editAppendPath */ -}}
+{{- $append := $page.Params.editAppendPath -}}
+{{- if eq (printf "%T" $append) "<nil>" -}}
+  {{- $append = $page.Site.Params.list.editAppendPath | default false -}}
+{{- end -}}
+
+{{- /* Ruta a anexar:
+      1) front matter 'editPath' (útil para _index.md)
+      2) .File.Path si existe (algunas builds pueden exponerlo)
+*/ -}}
+{{- $editPath := "" -}}
+{{- with $page.Params.editPath -}}
+  {{- $editPath = . -}}
+{{- else -}}
+  {{- with $page.File -}}
+    {{- $editPath = .Path -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if and $append (ne $url "#") (ne $editPath "") -}}
+  {{- $slash := "" -}}
+  {{- if ne (substr $url -1 1) "/" -}}
+    {{- $slash = "/" -}}
+  {{- end -}}
+  {{- $url = printf "%s%s%s" $url $slash (path.Join $editPath) -}}
+{{- end -}}
+
+{{- if and $url (ne $url "#") -}}
+<span class="mb-[2px]">
+  <a
+    href="{{ $url }}"
+    class="text-lg hover:text-primary-500"
+    rel="noopener noreferrer"
+    target="_blank"
+    title="{{ i18n "list.edit_title" }}">
+    <span class="inline-block align-text-bottom">{{ partial "icon.html" "edit" }}</span>
+  </a>
+</span>
+{{- end -}}
+{{- /* Trim EOF */ -}}
