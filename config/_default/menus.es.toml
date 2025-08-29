@@ -11,26 +11,9 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Cocina"
+  name = "Recetas"
+  pageRef = "recipes"
   weight = 1
-
-[[main]]
-  name = "Risoto con Shiitake"
-  parent = "Cocina"
-  pageRef = "cook/risotto-shiitake"
-  weight = 1
-
-[[main]]
-  name = "Brodo de Shiitake"
-  parent = "Cocina"
-  pageRef = "cook/brodo-shiitake"
-  weight = 2
-
-[[main]]
-  name = "Atún Sellado"
-  parent = "Cocina"
-  pageRef = "cook/atun-sellado"
-  weight = 3
 
 [[main]]
   name = "Libros"

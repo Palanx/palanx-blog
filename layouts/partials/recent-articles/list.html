@@ -1,0 +1,20 @@
+{{/* Recent items count (fallback = 5) */}}
+{{ $recentArticles := 5 }}
+{{ with .Site.Params.homepage.showRecentItems }}{{ $recentArticles = . }}{{ end }}
+
+{{/* Source set: only regular pages inside mainSections */}}
+{{ $base := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+
+{{/* Toggle ordering: by weight (true) vs by date/lastmod (false/default) */}}
+{{ $byWeight := .Site.Params.homepage.showRecentByWeight | default false }}
+{{ $ordered := $base }}
+{{ if not $byWeight }}
+  {{/* Ignore weight: newest first using Lastmod -> Date fallback */}}
+  {{ $ordered = $base.ByLastmod.Reverse }}
+{{ end }}
+
+<section class="space-y-10 w-full">
+  {{ range first $recentArticles $ordered }}
+    {{ partial "article-link/simple.html" . }}
+  {{ end }}
+</section>

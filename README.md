@@ -22,11 +22,11 @@ If `archetypes/default.md` exists, it will apply the template.
 #### Create cooking recipe content
 For ES, use:
 ``` bash
-hugo new --kind cooking-recipe cook/chicken-masala.md
+hugo new --kind cooking-recipe recipe/chicken-masala.md
 ```
 For EN, use:
 ``` bash
-hugo new --kind cooking-recipe.en cook/chicken-masala.en.md
+hugo new --kind cooking-recipe.en recipe/chicken-masala.en.md
 ```
 
 #### Create book recommendation content

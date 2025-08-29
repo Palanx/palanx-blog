@@ -3,9 +3,10 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 showHero: true
-backgroundImage: "img/cook/{{ .Name | urlize }}.jpg"
+backgroundImage: "img/recipes/{{ .Name | urlize }}.jpg"
 tags: ["cocina"]
 categories: ["Cocina"]
+showSummary: true
 summary: ""
 authors:
   - "palanx"
