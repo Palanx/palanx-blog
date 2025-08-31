@@ -5,7 +5,7 @@ draft: false
 showTableOfContents: false
 tags: []  
 categories: []  
-description: ""
+summary: "Here I recommend psychology books, but I don’t want to just give you the list without first telling you why I recommend them."
 ---
 
 {{< lead >}}
