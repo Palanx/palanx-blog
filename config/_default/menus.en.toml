@@ -31,6 +31,11 @@
   pageRef = "books/relationships-and-communication"
   weight = 2
 
+[[main]]
+  name = "Personal Development"
+  pageRef = "personal-development"
+  weight = 1
+
 
 #[[main]]
 #  name = "Blog"

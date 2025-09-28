@@ -5,7 +5,7 @@ draft: false
 showTableOfContents: false
 tags: []
 categories: []
-summary: "Here I recommend books about communication and relationships, but before that I want to share why they became necessary for me. "
+summary: "Here I recommend books about communication and relationships, but before that I want to share why they became necessary for me."
 ---
 
 {{< lead >}}

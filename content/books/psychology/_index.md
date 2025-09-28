@@ -5,7 +5,7 @@ draft: false
 showTableOfContents: false
 tags: []  
 categories: []  
-summary: "Aquí recomiendo libros de psicología, pero no quiero darte solo la lista sin contarte antes por qué los recomiendo. "
+summary: "Aquí recomiendo libros de psicología, pero no quiero darte solo la lista sin contarte antes por qué los recomiendo."
 ---
 
 {{< lead >}}
