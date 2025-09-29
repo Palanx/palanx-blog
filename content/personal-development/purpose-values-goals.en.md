@@ -35,11 +35,11 @@ Live and love according to your ideals as much as you can. Not everything lasts 
 
 ---
 
-# Purpose
+## Purpose
 Purpose is a broad life direction, a deep motive that gives coherence to your actions, decisions, and long-term efforts. It is not a specific goal or a concrete task, but rather a reason for being that transcends the moment. There is only one purpose.  
 **Why live.**
 
-## Characteristics
+### Characteristics
 * It is unique and central, but can be expressed in multiple ways.  
   * Can there be more than one? Theoretically, no. You may have many interests, goals, or passions, but purpose is usually just one, at least for each stage of life. If it feels like there are several, it usually means we haven’t yet found the core that integrates them.  
 * It may have branches, but they all point to the same axis.  
@@ -47,34 +47,34 @@ Purpose is a broad life direction, a deep motive that gives coherence to your ac
 
 ---
 
-# Values
+## Values
 Values are guiding principles that determine **how** you want to live and act. They are internal criteria you choose to follow because they deeply resonate with you, not because someone imposes them.  
 **How to live.**
 
-## Characteristics
+### Characteristics
 * They are not goals or achievements; they are embodied in everyday life.  
 * They align with purpose: they are the "how to live" of that "why to live."  
 * They help you make decisions that are consistent with yourself.  
 
 ---
 
-# Goals
+## Goals
 Goals are concrete, achievable, and bounded objectives that help you express your purpose through tangible actions.  
 
-## Characteristics
+### Characteristics
 * They are measurable, even if only subjectively.  
 * They are instrumental, not fundamental.  
 * They must align with Purpose and Values; otherwise, they create inner conflict.  
 
 ---
 
-# Personal Definition
+## Personal Definition
 The previous definitions are simply the understanding I reached. They may not be the most exact, but I tried to make them as simple as possible. Without examples it may be hard to grasp, and sharing my personal answers publicly doesn’t feel like a risk—so here they are:  
 
-## Purpose
+### Purpose
 To know and develop myself in order to live with freedom, creativity, and emotional connection, leaving a legacy through art and authentic human relationships.  
 
-## Values
+### Values
 * **Curiosity**: expanding the mind, raising awareness, and understanding oneself requires curiosity—a desire to seek answers. Without it, life becomes monotonous and hopeless.  
 * **Authenticity**: living the way I want to live, for myself and not for others. Those who always try to please everyone end up losing themselves.  
 * **Freedom**: part of the self-esteem pillar of “living consciously.” Making decisions that resonate with our purpose and values, while always taking responsibility for their consequences.  
@@ -84,7 +84,7 @@ To know and develop myself in order to live with freedom, creativity, and emotio
 * **Creativity**: the willingness to explore, transform, and express who I am, without fear of making mistakes or not fitting into what’s “right.” It is my way of living authentically.  
 * **Connection**: a conscious decision to open up to others and to myself with presence, vulnerability, and without masks.  
 
-## Goals
+### Goals
 I’ve aligned each goal with the Values that support it:  
 * **Learn UE5**: Curiosity, Discipline.  
 * **Compose music**: Creativity, Authenticity.  
@@ -96,7 +96,7 @@ I’ve aligned each goal with the Values that support it:
 
 ---
 
-# Final Words
+## Final Words
 Once we define Purpose, Values, and Goals, the next step is to ask: **what keeps me from integrating these definitions within myself?**  
 
 The answer lies in each of us. Many times, we already know it, but the mind unconsciously tries to deny it. Knowing what’s inside can hurt, but working on self-esteem transforms that pain into freedom and happiness, giving us a new way of seeing life: our own personal “truth.”

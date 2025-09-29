@@ -35,11 +35,11 @@ Vivan y amen bajo sus ideales todo lo que puedan. No todo es para siempre. Lo di
 
 ---
 
-# Propósito
+## Propósito
 El propósito es una dirección vital amplia, un motivo profundo que da coherencia a tus acciones, decisiones y esfuerzos a largo plazo. No es una meta específica ni una tarea concreta, sino una razón de ser que trasciende el momento. Solo hay un propósito.  
 **Por qué vivir.**
 
-## Características
+### Características
 * Es único y central, pero puede expresarse de múltiples formas.  
   * ¿Puede haber más de uno? Teóricamente, no. Puede haber muchos intereses, metas o pasiones, pero el propósito suele ser uno solo, al menos en cada etapa de la vida. Cuando sentimos que hay varios, en realidad suele ser que aún no hemos encontrado un núcleo integrador.  
 * Puede tener ramificaciones, pero todas apuntan a un mismo eje.  
@@ -47,34 +47,34 @@ El propósito es una dirección vital amplia, un motivo profundo que da coherenc
 
 ---
 
-# Valores
+## Valores
 Son principios rectores que determinan **cómo** quieres vivir y actuar. Son criterios internos que eliges seguir porque resuenan profundamente contigo, no porque alguien los imponga.  
 **Cómo vivir.**
 
-## Características
+### Características
 * No son metas ni logros; se encarnan en la vida cotidiana.  
 * Se alinean con el propósito: son el "cómo vivir" ese "por qué vivir".  
 * Ayudan a tomar decisiones coherentes con uno mismo.  
 
 ---
 
-# Metas
+## Metas
 Son objetivos concretos, alcanzables y delimitados que te ayudan a expresar tu propósito en acciones tangibles.  
 
-## Características
+### Características
 * Son medibles, aunque sea de forma subjetiva.  
 * Son instrumentales, no fundamentales.  
 * Deben estar alineadas con el Propósito y los Valores; de lo contrario, generan conflictos internos.  
 
 ---
 
-# Definición Personal
+## Definición Personal
 Las definiciones anteriores son el entendimiento al que llegué. No significa que sean las más exactas, pero intenté que fueran lo más simples posible. Sin ejemplos puede ser difícil de comprender, y compartir mis respuestas personales no me genera un riesgo, por eso lo hago aquí:  
 
-## Propósito
+### Propósito
 Conocerme y desarrollarme para vivir con libertad, creatividad y conexión emocional, dejando un legado a través del arte y las relaciones humanas auténticas.  
 
-## Valores
+### Valores
 * **Curiosidad**: expandir la mente, elevar la conciencia y entenderse a uno mismo requiere curiosidad, ganas de querer obtener respuestas. Sin ella, la vida se vuelve monótona y sin esperanza.  
 * **Autenticidad**: vivir como uno quiere vivir, por uno mismo y no por los demás. Quien busca agradar a todos termina perdiéndose a sí mismo.  
 * **Libertad**: parte del pilar de la autoestima “vivir consciente”. Tomar decisiones que resuenen con nuestro propósito y valores, asumiendo siempre la responsabilidad de sus consecuencias.  
@@ -84,7 +84,7 @@ Conocerme y desarrollarme para vivir con libertad, creatividad y conexión emoci
 * **Creatividad**: disposición a explorar, transformar y expresar quién soy, sin miedo a equivocarme ni a no encajar en lo “correcto”. Es mi forma de vivir con autenticidad.  
 * **Conexión**: decisión consciente de abrirme a otros y a mí mismo con presencia, vulnerabilidad y sin máscaras.  
 
-## Metas
+### Metas
 He alineado cada meta con los Valores que la sustentan:  
 * **Aprender UE5**: Curiosidad, Disciplina.  
 * **Componer música**: Creatividad, Autenticidad.  
@@ -96,7 +96,7 @@ He alineado cada meta con los Valores que la sustentan:
 
 ---
 
-# Palabras Finales
+## Palabras Finales
 Una vez que definimos Propósito, Valores y Metas, el siguiente paso es responder: **¿qué me impide integrar en mi interior estas definiciones?**  
 
 La respuesta está en cada uno. Muchas veces sabemos cuál es, pero la mente inconscientemente intenta negarla. Conocerse duele, pero trabajar la autoestima convierte ese dolor en libertad y felicidad, dándonos una nueva forma de ver la vida: nuestra propia “verdad”.
