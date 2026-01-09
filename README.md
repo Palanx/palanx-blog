@@ -3,6 +3,17 @@ HUGO project to create my personal Blog and stop using third party services with
 
 ## Commands
 
+## Init Dependencies
+```
+git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.14.1
+echo '. "$HOME/.asdf/asdf.sh"' >> ~/.zshrc
+source ~/.zshrc
+asdf plugin add golang
+asdf plugin add hugo
+asdf intall
+git submodule update --init -- themes/blowfish
+```
+
 ### Start Server
 ``` bash
 hugo server -D
