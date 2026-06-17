@@ -25,7 +25,7 @@ For days I unconsciously resisted looking for information and responding to the 
 
 Overcoming the fear of the unknown—or evaluating, accepting, and integrating new truths into our lives—is not easy, especially if self-esteem has not been worked on. Accepting that I could only find the answers I was looking for by raising my awareness was the first step. I couldn’t keep dodging such important questions as: Why do I do what I do, and why do I think what I think?  
 
-That Sunday afternoon I sat down to research and discovered the reason for the assignment: there are no "purposes." There can only be one **purpose**. It may evolve throughout life, but believing we have several is usually a sign that we still haven’t identified what truly drives us to live.  
+That Sunday afternoon I sat down to research and discovered the reason for the assignment: I was looking for “purposes” in plural, as if they were a list of “goals” to complete, but in this context I needed to find a **Purpose**: a central life direction. That purpose can evolve throughout life, but believing we have several is usually a sign that we still haven’t identified what truly drives us to live.  
 
 When I finished the task, I realized what I needed was to define a clear answer. How could I direct my life if I didn’t know my course? And even more importantly: was that course truly mine, or had I adopted it from someone else?  
 
@@ -36,7 +36,7 @@ Live and love according to your ideals as much as you can. Not everything lasts 
 ---
 
 ## Purpose
-Purpose is a broad life direction, a deep motive that gives coherence to your actions, decisions, and long-term efforts. It is not a specific goal or a concrete task, but rather a reason for being that transcends the moment. There is only one purpose.  
+Purpose is a broad life direction, a deep motive that gives coherence to your actions, decisions, and long-term efforts. It is not a specific goal or a concrete task, but rather a reason for being that transcends the moment. In this framework, there is only one purpose.  
 **Why live.**
 
 ### Characteristics
@@ -77,9 +77,9 @@ To know and develop myself in order to live with freedom, creativity, and emotio
 ### Values
 * **Curiosity**: expanding the mind, raising awareness, and understanding oneself requires curiosity—a desire to seek answers. Without it, life becomes monotonous and hopeless.  
 * **Authenticity**: living the way I want to live, for myself and not for others. Those who always try to please everyone end up losing themselves.  
-* **Freedom**: part of the self-esteem pillar of “living consciously.” Making decisions that resonate with our purpose and values, while always taking responsibility for their consequences.  
-* **Self-Love**: recognizing your intrinsic worth and treating yourself with respect, care, and acceptance, without depending on external validation. Self-love is not equivalent to self-esteem; it is one of its components.  
-* **Emotional Responsibility**: my emotions are mine. They are not someone else’s fault nor do they make me bad for feeling them, but it is my responsibility to manage them with maturity.  
+* **Freedom**: making decisions that resonate with our purpose and values, while always taking responsibility for their consequences.  
+* **Self-Love**: recognizing your intrinsic worth and treating yourself with respect, care, and acceptance, without depending on external validation. Self-love is not equivalent to self-esteem; it is one of its components or pillars.  
+* **Emotional Responsibility**: my emotions are mine. They are not someone else’s fault nor do they make me bad for feeling them, but it is my responsibility to manage my actions with maturity based on those emotions.  
 * **Discipline**: acting consistently with your goals and values even when there’s no desire or immediate results. “I choose to stay on my path because what I am building matters more than what I feel in this moment.”  
 * **Creativity**: the willingness to explore, transform, and express who I am, without fear of making mistakes or not fitting into what’s “right.” It is my way of living authentically.  
 * **Connection**: a conscious decision to open up to others and to myself with presence, vulnerability, and without masks.  

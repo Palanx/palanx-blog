@@ -1,5 +1,5 @@
 ---
-title: "Proposito, Valores y Metas"
+title: "Propósito, Valores y Metas"
 date: 2025-08-31T00:00:00-00:00
 draft: false
 showTableOfContents: true
@@ -25,7 +25,7 @@ Durante días me resistí inconscientemente a buscar información y darle una re
 
 Superar el miedo a lo desconocido, o el hecho de evaluar, aceptar e integrar nuevas verdades en nuestra vida, no es fácil, sobre todo si la autoestima no está trabajada. Aceptar que solo podría obtener las respuestas que buscaba elevando mi conciencia fue el primer paso. No podía seguir esquivando preguntas tan importantes como: ¿por qué hago lo que hago y pienso lo que pienso?  
 
-Esa tarde de domingo me senté a investigar y descubrí el motivo de la tarea: no existen los "propósitos". Solo puede haber un **propósito**, que puede evolucionar a lo largo de la vida, pero creer que tenemos varios suele ser una señal de que todavía no identificamos qué es lo que realmente nos impulsa a vivir.  
+Esa tarde de domingo me senté a investigar y descubrí el motivo de la tarea: estaba buscando “propósitos” en plural, como si fueran una lista de “objetivos” a cumplir, pero en este contexto debía encontrar un **Propósito**: una dirección vital central. Ese propósito puede evolucionar a lo largo de la vida, pero creer que tenemos varios suele ser una señal de que todavía no identificamos qué es lo que realmente nos impulsa a vivir.  
 
 Al concluir la tarea entendí que lo que necesitaba era definir una respuesta clara. ¿Cómo podría dirigir mi vida si no sabía cuál era mi rumbo? Y más importante aún: ¿ese rumbo era realmente mío o lo había adoptado de otra persona?  
 
@@ -36,7 +36,7 @@ Vivan y amen bajo sus ideales todo lo que puedan. No todo es para siempre. Lo di
 ---
 
 ## Propósito
-El propósito es una dirección vital amplia, un motivo profundo que da coherencia a tus acciones, decisiones y esfuerzos a largo plazo. No es una meta específica ni una tarea concreta, sino una razón de ser que trasciende el momento. Solo hay un propósito.  
+El propósito es una dirección vital amplia, un motivo profundo que da coherencia a tus acciones, decisiones y esfuerzos a largo plazo. No es una meta específica ni una tarea concreta, sino una razón de ser que trasciende el momento. En este marco, solo hay un propósito.  
 **Por qué vivir.**
 
 ### Características
@@ -75,11 +75,11 @@ Las definiciones anteriores son el entendimiento al que llegué. No significa qu
 Conocerme y desarrollarme para vivir con libertad, creatividad y conexión emocional, dejando un legado a través del arte y las relaciones humanas auténticas.  
 
 ### Valores
-* **Curiosidad**: expandir la mente, elevar la conciencia y entenderse a uno mismo requiere curiosidad, ganas de querer obtener respuestas. Sin ella, la vida se vuelve monótona y sin esperanza.  
+* **Curiosidad**: expandir la mente, elevar la conciencia y entenderse a uno mismo requiere curiosidad, ganas de obtener respuestas. Sin ella, la vida se vuelve monótona y sin esperanza.  
 * **Autenticidad**: vivir como uno quiere vivir, por uno mismo y no por los demás. Quien busca agradar a todos termina perdiéndose a sí mismo.  
-* **Libertad**: parte del pilar de la autoestima “vivir consciente”. Tomar decisiones que resuenen con nuestro propósito y valores, asumiendo siempre la responsabilidad de sus consecuencias.  
-* **Amor Propio**: reconocer tu valor intrínseco y tratarte con respeto, cuidado y aceptación, sin depender de validación externa. El amor propio no equivale a la autoestima, sino que es uno de sus componentes.  
-* **Responsabilidad Emocional**: mis emociones son mías. No son culpa de otros ni me hacen malo por sentirlas, pero sí es mi responsabilidad gestionarlas con madurez.  
+* **Libertad**: tomar decisiones que resuenen con nuestro propósito y valores, asumiendo siempre la responsabilidad de sus consecuencias.  
+* **Amor Propio**: reconocer tu valor intrínseco y tratarte con respeto, cuidado y aceptación, sin depender de validación externa. El amor propio no equivale a la autoestima, sino que es uno de sus componentes o pilares.  
+* **Responsabilidad Emocional**: mis emociones son mías. No son culpa de otros ni me hacen malo por sentirlas, pero sí es mi responsabilidad gestionar con madurez mis acciones a partir de esas emociones.  
 * **Disciplina**: actuar de forma coherente con tus objetivos y valores incluso cuando no hay ganas ni resultados inmediatos. “Elijo sostener mi camino porque me importa más lo que estoy construyendo que lo que siento en este momento”.  
 * **Creatividad**: disposición a explorar, transformar y expresar quién soy, sin miedo a equivocarme ni a no encajar en lo “correcto”. Es mi forma de vivir con autenticidad.  
 * **Conexión**: decisión consciente de abrirme a otros y a mí mismo con presencia, vulnerabilidad y sin máscaras.  
