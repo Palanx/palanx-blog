@@ -10,7 +10,7 @@ echo '. "$HOME/.asdf/asdf.sh"' >> ~/.zshrc
 source ~/.zshrc
 asdf plugin add golang
 asdf plugin add hugo
-asdf intall
+asdf install
 git submodule update --init -- themes/blowfish
 ```
 
