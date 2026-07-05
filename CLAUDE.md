@@ -49,6 +49,26 @@ No separate index/menu file to update per post — sections list their content a
 
 **Always validate the front-matter `date` against the real current time** (run `date +"%Y-%m-%dT%H:%M:%S %z"`, don't guess/reuse a stale date from earlier in the conversation) before writing it — `buildFuture = false` in `hugo.toml` silently drops any content dated after "now" from the build, so a future timestamp makes a `draft: false` post invisible with no error.
 
+**Run the post audit checklist (below) on every post you generate or edit, before handing it to the user** — these are the exact error classes found in a full-blog audit of previously generated posts.
+
+### Post audit checklist
+How to audit posts (also what "valida/audita los posts" means). Run both layers on the ES **and** EN file of each post:
+
+**Mechanical checks (grep/bash + smoke build):**
+- Internal links `](/es/<path>)` / `](/en/<path>)` resolve to `content/<path>.md` / `.en.md` (or `_index`); anchors (`#sofrito`) match a real heading in the target file (Hugo ids: kebab-case, accents kept).
+- Front-matter `backgroundImage`/`image` files exist under `assets/`; no orphan images; slug ↔ image filename consistent (a `masaman`/`massaman` mismatch happened once).
+- Every `authors:` value has a folder in `content/authors/` — a typo silently generates an empty phantom author page (recipes are always `"tomasmuniz"`).
+- ES/EN pair exists; `date` not in the future; `draft` as intended; no space before `:` in front-matter keys.
+- Smoke build to a temp dir (`hugo --minify -d <tmpdir>`): zero warnings, and ES/EN page counts should be equal — a mismatch means a phantom taxonomy term or missing translation.
+
+**Content checks (read the post like a skeptical editor):**
+- **Recipes:** every listed ingredient is used in a step and vice versa (garnishes too); steps in executable order (prep like charring/soaking comes first); a fat/oil exists wherever something is sautéed; quantities present and physically consistent (e.g. "1/2 taza (200 ml)" is impossible — 1/2 cup = 125 ml); the clock keyword equals the real total including resting/fridge/soak time; correct Chilean ingredient names (cebollín not cebollina, pimentón not pimiento); consistent tú/usted/infinitive register within a post.
+- **Books:** the recommendation must describe the *real* book (one post described the wrong book entirely); verify author facts and death dates; title language convention: each language variant uses that language's official edition title if one exists (verify with web search — summaries/pirated PDFs don't count), slug always stays as-is; complementary-link blurbs must match the target post's actual topic.
+- **Both languages say the same thing** — watch for meaning-flipping mistranslations ("no es excluyente" ≠ "not optional") and wrong ingredient translations (cebollín = green onion, not leek).
+- Spelling/accents everywhere, including section `_index` titles (a "Psicologia"/"Vinculos" typo shipped in menus); `_index` prose must only mention categories that actually exist in posts' front matter.
+
+Report findings grouped by severity (broken / wrong info / ambiguous / spelling / naming) with `file:line`, and don't apply fixes unless asked.
+
 ## Architecture / how the pieces fit
 
 **Language routing (bilingual site):** `defaultContentLanguage = "es"` with `defaultContentLanguageInSubdir = true` (config/_default/hugo.toml). Spanish content lives at `content/**/foo.md` and is served under `/es/...`; the English counterpart is the same path with `.en` before the extension (`foo.en.md`), served under `/en/...`. Per-language site params (author bio, social links, date format) live in `config/_default/languages.es.toml` / `languages.en.toml`; per-language menus in `menus.es.toml` / `menus.en.toml`. UI string translations are in `i18n/es.yaml` / `i18n/en.yaml`. When adding a page, section `_index`, or menu entry, both language variants need to be kept in sync or the site will show a broken/missing translation for that language.
