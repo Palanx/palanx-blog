@@ -1,5 +1,5 @@
 ---
-title: "El mito de la normalidad"
+title: "The Myth of Normal"
 date: 2025-08-15T12:10:00-04:00
 draft: false
 showTableOfContents: true
@@ -56,5 +56,5 @@ Those seeking quick fixes without exploring personal history or context.
 ---
 
 ### Complementary Books
-- [*Cuando el cuerpo dice NO*](/en/books/psychology/cuando-el-cuerpo-dice-no) — for clinical examples and practical cases.
+- [*When the Body Says No*](/en/books/psychology/cuando-el-cuerpo-dice-no) — for clinical examples and practical cases.
 - [*On Self-Hatred*](/en/books/psychology/on-self-hatred) — to work on chronic self-criticism.

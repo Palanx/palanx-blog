@@ -55,5 +55,5 @@ Those looking for quick or infallible formulas to “guarantee” love.
 ---
 
 ### Complementary Books
-- [*Abrázame fuerte: Siete Conversaciones*](/en/books/psychology/abrazame-fuerte) — to work on couple connection.
-- [*Comunicación no violenta*](/en/books/relationships-and-communication/comunicacion-no-violenta) — to improve dialogue quality.
+- [*Hold Me Tight: Seven Conversations*](/en/books/psychology/abrazame-fuerte) — to work on couple connection.
+- [*Nonviolent Communication*](/en/books/relationships-and-communication/comunicacion-no-violenta) — to improve dialogue quality.

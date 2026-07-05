@@ -37,7 +37,7 @@ In my case, even when I achieved goals, the question always popped up: *“And n
 
 That day I had no theory or practice, but accepting that I was the problem was the foundation of everything. From there I began to recognize the mental and emotional armor I had built as a defense. At first it was painful, but with time the process stopped being horrifying and started to feel liberating.  
 
-On that path I’m very grateful to my psychiatrist, who recommended *El arte de amargarse la vida*. That book helped me identify how I myself was generating my misery. It didn’t give me all the tools to stop doing it, but it did teach me to recognize sabotage patterns and give them a name. Knowing this, I was able to start searching for the concepts and theories I needed to truly understand how those mechanisms worked. And that was enough to start wanting to change.  
+On that path I’m very grateful to my psychiatrist, who recommended *The Situation Is Hopeless, But Not Serious*. That book helped me identify how I myself was generating my misery. It didn’t give me all the tools to stop doing it, but it did teach me to recognize sabotage patterns and give them a name. Knowing this, I was able to start searching for the concepts and theories I needed to truly understand how those mechanisms worked. And that was enough to start wanting to change.  
 
 ---
 
@@ -45,9 +45,9 @@ On that path I’m very grateful to my psychiatrist, who recommended *El arte de
 
 Therapy doesn’t work passively: it’s not about the professional “fixing you” or “telling you how to be happy.” They provide tools and perspectives, but the real work depends on us.  
 
-The second book that was recommended to me was *Los Seis Pilares de la Autoestima*, thanks to my psychologist. Now I completely understand why. For me, that book is the theoretical foundation before any other.  
-First, accept that you are the origin of your own misery (*El arte de amargarse la vida*).  
-Then, build solid self-esteem (*Los Seis Pilares de la Autoestima*).  
+The second book that was recommended to me was *The Six Pillars of Self-Esteem*, thanks to my psychologist. Now I completely understand why. For me, that book is the theoretical foundation before any other.  
+First, accept that you are the origin of your own misery (*The Situation Is Hopeless, But Not Serious*).  
+Then, build solid self-esteem (*The Six Pillars of Self-Esteem*).  
 
 It’s not enough to logically understand that “I am enough to achieve what I want” and that “I deserve the reward for my actions.” That understanding is only the first step. Self-esteem doesn’t work only from reason —it needs to be fed and trained: through positive reinforcement, real experiences, and the constant learning that those phrases are not just words, but facts that become validated in practice.  
 

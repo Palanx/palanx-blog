@@ -1,5 +1,5 @@
 ---
-title: "El arte de amargarse la vida"
+title: "The Situation Is Hopeless, But Not Serious"
 date: 2025-08-10T05:54:17-04:00
 draft: false
 showTableOfContents: true
@@ -55,5 +55,5 @@ Those looking for a step-by-step manual on *“how to be happy”*.
 ---
 
 ### Complementary Books
-- [*Amar lo que es*](/en/books/psychology/amar-lo-que-es) — for questioning techniques.
-- [*Los seis pilares de la autoestima*](/en/books/psychology/los-seis-pilares-de-la-autoestima) — for building new habits.
+- [*Loving What Is*](/en/books/psychology/amar-lo-que-es) — for questioning techniques.
+- [*The Six Pillars of Self-Esteem*](/en/books/psychology/los-seis-pilares-de-la-autoestima) — for building new habits.

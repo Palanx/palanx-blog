@@ -56,4 +56,4 @@ Those seeking formal academic text or technical manual—this is a human and acc
 
 ### Complementary Books
 - [*Models: Attract Women Through Honesty*](/en/books/relationships-and-communication/models-attract-women-through-honesty) — for an authenticity- and desire-focused approach.
-- [*El Dilema de la Pareja*](/en/books/relationships-and-communication/el-dilema-de-la-pareja) — to rethink infidelity and trust in relationships.
+- [*The State of Affairs*](/en/books/relationships-and-communication/el-dilema-de-la-pareja) — to rethink infidelity and trust in relationships.

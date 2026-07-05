@@ -1,5 +1,5 @@
 ---
-title: "Amar lo que es"
+title: "Loving What Is"
 date: 2025-08-15T13:00:00-04:00
 draft: false
 showTableOfContents: true
@@ -61,4 +61,4 @@ Those seeking a traditional clinical approach or strictly experimental evidence.
 
 ### Complementary Books
 - [*On Self-Hatred*](/en/books/psychology/on-self-hatred) — to deepen self-compassion.
-- [*Los seis pilares de la autoestima*](/en/books/psychology/los-seis-pilares-de-la-autoestima) — to strengthen personal confidence.
+- [*The Six Pillars of Self-Esteem*](/en/books/psychology/los-seis-pilares-de-la-autoestima) — to strengthen personal confidence.

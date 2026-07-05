@@ -1,5 +1,5 @@
 ---
-title: "Comunicación no Violenta"
+title: "Nonviolent Communication"
 date: 2025-08-15T13:25:00-04:00
 draft: false
 showTableOfContents: true
@@ -55,5 +55,5 @@ Those looking for strategies to “win” arguments or manipulate.
 ---
 
 ### Complementary Books
-- [*El mito del carisma*](/en/books/relationships-and-communication/el-mito-del-carisma) — to develop presence and warmth in social interactions.
-- [*Abrázame fuerte: Siete Conversaciones*](/en/books/psychology/abrazame-fuerte) — to strengthen emotional bonds.
+- [*The Charisma Myth*](/en/books/relationships-and-communication/el-mito-del-carisma) — to develop presence and warmth in social interactions.
+- [*Hold Me Tight: Seven Conversations*](/en/books/psychology/abrazame-fuerte) — to strengthen emotional bonds.

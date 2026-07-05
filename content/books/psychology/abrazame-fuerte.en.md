@@ -1,5 +1,5 @@
 ---
-title: "Abrázame fuerte: Siete Conversaciones"
+title: "Hold Me Tight: Seven Conversations"
 date: 2025-08-15T13:05:00-04:00
 draft: false
 showTableOfContents: true
@@ -55,5 +55,5 @@ Relationships with abuse or active violence, where prior professional interventi
 ---
 
 ### Complementary Books
-- [*Comunicación no violenta*](/en/books/relationships-and-communication/comunicacion-no-violenta) — to improve the language of needs.
+- [*Nonviolent Communication*](/en/books/relationships-and-communication/comunicacion-no-violenta) — to improve the language of needs.
 - [*The Secret of Successful Relationships*](/en/books/psychology/the-secret-of-successful-relationships) — to integrate realistic expectations.

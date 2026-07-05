@@ -1,5 +1,5 @@
 ---
-title: "El Dilema de la Pareja"
+title: "The State of Affairs"
 date: 2025-08-15T13:15:00-04:00
 draft: false
 showTableOfContents: true
@@ -56,5 +56,5 @@ Those looking for simple moral condemnation or a foolproof formula to “affair-
 ---
 
 ### Complementary Books
-- [*Abrázame fuerte: Siete Conversaciones*](/en/books/psychology/abrazame-fuerte) — to repair and reconnect the bond.
+- [*Hold Me Tight: Seven Conversations*](/en/books/psychology/abrazame-fuerte) — to repair and reconnect the bond.
 - [*Guide to Getting It On*](/en/books/relationships-and-communication/guide-to-getting-it-on-10th) — to work on intimacy and sexuality as a couple.

@@ -1,5 +1,5 @@
 ---
-title: "Los Seis Pilares de la Autoestima"
+title: "The Six Pillars of Self-Esteem"
 date: 2025-08-10T05:54:17-04:00
 draft: false
 showTableOfContents: true
@@ -61,5 +61,5 @@ Those wanting only quick motivation; it requires sustained practice.
 ---
 
 ### Complementary Books
-- [*Amar lo que es*](/en/books/psychology/amar-lo-que-es) — questions beliefs that weaken self-esteem.
-- [*El arte de amargarse la vida*](/en/books/psychology/el-arte-de-amargarse-la-vida) — detects self-sabotage.
+- [*Loving What Is*](/en/books/psychology/amar-lo-que-es) — questions beliefs that weaken self-esteem.
+- [*The Situation Is Hopeless, But Not Serious*](/en/books/psychology/el-arte-de-amargarse-la-vida) — detects self-sabotage.

@@ -56,4 +56,4 @@ Those seeking a technical or specialized focus on a single topic.
 
 ### Complementary Books
 - [*On Self-Hatred*](/en/books/psychology/on-self-hatred) — to work on self-criticism.
-- [*Comunicación no violenta*](/en/books/relationships-and-communication/comunicacion-no-violenta) — to improve the quality of interactions.
+- [*Nonviolent Communication*](/en/books/relationships-and-communication/comunicacion-no-violenta) — to improve the quality of interactions.

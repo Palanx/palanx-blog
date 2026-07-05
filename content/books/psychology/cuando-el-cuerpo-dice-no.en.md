@@ -1,5 +1,5 @@
 ---
-title: "Cuando el cuerpo dice NO"
+title: "When the Body Says No"
 date: 2025-08-15T12:20:00-04:00
 draft: false
 showTableOfContents: true
@@ -55,5 +55,5 @@ Those seeking purely biomedical explanations without considering emotional conte
 ---
 
 ### Complementary Books
-- [*El mito de la normalidad*](/en/books/psychology/el-mito-de-la-normalidad) — for cultural and social context.
+- [*The Myth of Normal*](/en/books/psychology/el-mito-de-la-normalidad) — for cultural and social context.
 - [*On Self-Hatred*](/en/books/psychology/on-self-hatred) — to work on self-criticism and emotional exhaustion.
