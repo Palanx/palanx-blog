@@ -1,7 +1,7 @@
 ---
 title: "Chilean Corn Pie"
 date: 2026-07-05T00:10:00-04:00
-draft: false
+draft: true
 showHero: true
 backgroundImage: "img/recipes/pastel-choclo.jpg"
 tags: ["cooking"]
