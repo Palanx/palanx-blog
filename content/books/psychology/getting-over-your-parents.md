@@ -11,7 +11,7 @@ categories: ["Psicología", "Trauma Infantil"]
 summary: "Cómo reconocer y superar patrones emocionales heredados de la familia de origen."
 authors:
   - "theschooloflife"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 5
 ---
 

@@ -45,8 +45,8 @@ A four-bean stew with pork and chorizo, smoked with cacho de cabra chili and thi
 * **1** head of garlic, chopped
 * **1/2 tablespoon** cumin
 * **1 tablespoon** dried cilantro
-* Chopped fresh cilantro (to taste)
-* Chopped chives (optional, to taste)
+* Chopped fresh cilantro (optional, to taste)
+* Chopped fresh chives (optional, to taste)
 * Pepper (to taste)
 * Salt (to taste)
 
@@ -57,7 +57,7 @@ A four-bean stew with pork and chorizo, smoked with cacho de cabra chili and thi
 Soak the [Beans](#beans) in cold water for 24 hours. When you're ready to cook, drain them in a large colander and rinse.
 
 ### 2. Vegetable sofrito
-In a wok, add a generous amount of oil and heat over high heat. Sauté the onion and green onion. Once the onion is golden, add the cacho de cabra chilies, the guindillas, the bell pepper, and the carrot, and cook until the vegetables soften. Add the panela, cumin, and dried cilantro, plus the fresh cilantro or chives if you want, season with salt and pepper to taste, and sauté until everything is well mixed. Set aside in a bowl.
+In a wok, add a generous amount of oil and heat over high heat. Sauté the onion and green onion. Once the onion is golden, add the garlic and stir it for 30 seconds. Then add the cacho de cabra chilies, the guindillas, the bell pepper, and the carrot, and cook until the vegetables soften. Add the panela, cumin, and dried cilantro, plus the fresh chopped cilantro or chives if you want, season with salt and pepper to taste, and sauté until everything is well mixed. Set aside in a bowl.
 
 ### 3. Meat and chorizo
 In the same wok, add another generous amount of oil and heat over high heat. Add the pork and the chorizo, season with salt and pepper to taste, and sauté until fully cooked.
@@ -69,7 +69,7 @@ Add the beans and 2/3 of the reserved vegetable sofrito to the pressure cooker. 
 Once the pot reaches full pressure and starts releasing steam, lower to medium heat and cook for 30 min at 10 PSI (the meat setting).
 
 ### 6. Thicken and finish
-Once it's done and the pot is safe to open, scoop out about 3 ladlefuls of the mixture, making sure to grab the chilies (the cacho de cabra and the guindillas) so they end up in that separate container, since they're going to be blended. Add one more tablespoon of just the liquid. Blend everything with an immersion blender until it becomes a smooth paste, then stir it back into the pot. Add the reserved 1/3 of vegetables and meat from the bowl. Mix everything together and it's done.
+Once it's done and the pot is safe to open, scoop out about 3 ladlefuls of the mixture, making sure to grab the chilies (the cacho de cabra and the guindillas) so they end up in that separate container, since they're going to be blended. Add one more ladleful of just the liquid. Blend everything with an immersion blender until it becomes a smooth paste, then stir it back into the pot. Add the reserved 1/3 of vegetables and meat from the bowl. Mix everything together and it's done.
 
 # Notes / Tips
 - The 24-hour soak is essential, skip it and the beans will stay tough.

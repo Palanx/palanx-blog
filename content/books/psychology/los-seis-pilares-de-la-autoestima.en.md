@@ -11,7 +11,7 @@ categories: ["Psychology", "Self-Esteem"]
 summary: "A practical explanation of the six fundamental habits that sustain healthy self-esteem, useful for personal healing processes and self-confidence."
 authors:
   - "nathanielbranden"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 1
 ---
 

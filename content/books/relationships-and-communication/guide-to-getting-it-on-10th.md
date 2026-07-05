@@ -11,7 +11,7 @@ categories: ["Psicología", "Sexualidad"]
 summary: "Guía cálida, accesible y exhaustiva sobre sexo para adultos, ampliada con contenido actualizado como consentimiento y tecnología moderna."
 authors:
   - "pauljoannides"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 5
 ---
 
@@ -56,4 +56,4 @@ Quienes busquen texto académico formal o manual técnico — este es un enfoque
 
 ### Libros complementarios
 - [*Models: Attract Women Through Honesty*](/es/books/relationships-and-communication/models-attract-women-through-honesty) — para un enfoque en autenticidad y deseo.
-- [*El Dilema de la Pareja*](/es/books/relationships-and-communication/el-dilema-de-la-pareja) — para mantener el deseo en contextos de largo plazo.
+- [*El Dilema de la Pareja*](/es/books/relationships-and-communication/el-dilema-de-la-pareja) — para repensar la infidelidad y la confianza en la pareja.

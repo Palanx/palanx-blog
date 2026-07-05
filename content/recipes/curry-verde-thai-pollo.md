@@ -24,17 +24,17 @@ Pollo cocinado en un curry verde thailandés cremoso, con verduras salteadas y e
 * **850 g** pollo, cortado en trozos de 3-4 cm
 
 ### Verduras
-* Zapallo italiano, en medias lunas gruesas (1-1,5 cm)
-* Berenjena, en cubos medianos
-* Pimiento, en tiras
-* Porotos verdes (opcional)
+* **1** zapallo italiano, en medias lunas gruesas (1-1,5 cm)
+* **1** berenjena, en cubos medianos
+* **1** pimentón, en tiras
+* **100 g** porotos verdes (opcional)
 
 ### Aromáticos
-* Ajo picado fino
-* Jengibre rallado
+* **3** dientes de ajo picados fino
+* **1 trozo (2 cm)** jengibre fresco rallado
 
 ### Hierbas
-* Albahaca tailandesa **o** albahaca común + semillas de hinojo machacadas + anís estrella entero (sustitución)
+* **1 puñado (15-20 hojas)** albahaca tailandesa **o** albahaca común + semillas de hinojo machacadas + anís estrella entero (sustitución)
 
 ### Para el curry
 * **3½-4 cucharadas** pasta de curry verde
@@ -57,10 +57,10 @@ Pon una olla amplia o wok a fuego medio-alto y agrega ¾ taza de leche de coco. 
 Agrega 3½-4 cucharadas de pasta de curry verde y revuelve constantemente por 1-2 minutos. Suma el ajo, el jengibre y el anís estrella (si usas la sustitución). Debería quedar un aroma fuerte y herbal, un color verde más intenso y el aceite ligeramente verde. Si se seca, agrega un chorrito de leche de coco, nunca agua.
 
 ### 3. Saltear el pollo en el curry
-Agrega todo el pollo crudo y mezcla bien para que se cubra con el curry. Cocina 2-3 minutos a fuego medio: el pollo debe perder el color rosado por fuera, sin dorarse fuerte, y el fondo no debe quemarse. No retires el pollo ni agregues sal todavía.
+Agrega todo el pollo crudo y mezcla bien para que se cubra con el curry. Baja el fuego a medio y cocina 2-3 minutos: el pollo debe perder el color rosado por fuera, sin dorarse fuerte, y el fondo no debe quemarse. No retires el pollo ni agregues sal todavía.
 
 ### 4. Construir el curry
-Agrega el resto de la leche de coco y mezcla suavemente. Baja el fuego a medio y cocina 12-15 minutos sin hervir fuerte, hasta lograr un burbujeo suave, una salsa cremosa y el pollo cocinándose parejo.
+Agrega el resto de la leche de coco y mezcla suavemente. Mantén el fuego medio y cocina 12-15 minutos sin hervir fuerte, hasta lograr un burbujeo suave, una salsa cremosa y el pollo cocinándose parejo.
 
 ### 5. Agregar las verduras
 Primero agrega la berenjena y los porotos verdes (si usas) y cocina 3 minutos. Luego suma el zapallo italiano y el pimiento, y cocina 2-4 minutos más, hasta que las verduras queden tiernas pero con algo de firmeza.

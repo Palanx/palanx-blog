@@ -12,7 +12,7 @@ summary: "Presenta 'The Work', un método para cuestionar pensamientos que gener
 authors:
   - "byronkatie"
   - "stephenmitchell"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 9
 ---
 

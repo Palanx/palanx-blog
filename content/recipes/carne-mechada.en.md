@@ -22,7 +22,7 @@ Seared short ribs, drowned in red wine and vegetables until they fall apart tend
 
 ### Sofrito
 * **1** onion, diced
-* **1** leek, sliced into rounds
+* **1** green onion, sliced into rounds
 * **1** red bell pepper, diced
 * **1** green bell pepper, diced
 * **3** carrots, diced
@@ -56,7 +56,7 @@ Add the sautéed sofrito into the pot with the wine and beef. Stir a bit so the 
 
 ### 5. Cook it
 - **Pressure cooker:** 45 min at 10 PSI (the meat setting).
-- **Regular pot:** low heat for 3 hours (can't remember if lid on or off, try it yourself and let me know).
+- **Regular pot:** low heat for 3 hours, lid on, checking now and then that it doesn't run dry.
 
 ### 6. Finish
 Carefully pull the beef out and set it aside. Blend everything left in the pot with an immersion blender until it turns into a thick mush. Add the beef back in whole, don't shred it, the idea is that it keeps its shape and each person shreds it themselves right on their plate. And that's it, done.

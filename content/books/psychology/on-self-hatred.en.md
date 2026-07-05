@@ -11,7 +11,7 @@ categories: ["Psychology", "Painful Thoughts"]
 summary: "An analysis of self-hatred, its causes, and how to reconcile with one's own identity."
 authors:
   - "theschooloflife"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 7
 ---
 

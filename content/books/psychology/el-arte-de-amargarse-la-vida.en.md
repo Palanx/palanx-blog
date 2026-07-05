@@ -11,7 +11,7 @@ categories: ["Psychology", "Painful Thoughts"]
 summary: "An ironic look at how our own thoughts and beliefs sabotage us. Very useful for identifying destructive thinking patterns."
 authors:
   - "paulwatzlawick"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 2
 ---
 

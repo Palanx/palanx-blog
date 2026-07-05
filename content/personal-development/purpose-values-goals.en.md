@@ -11,7 +11,7 @@ categories: ["Personal Development"]
 summary: "A reflection on what purpose, values, and goals are, and how each plays a distinct role in giving direction and meaning to life."
 authors:
   - "tomasmuniz"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 1
 ---
 

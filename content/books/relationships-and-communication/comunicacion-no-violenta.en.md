@@ -11,7 +11,7 @@ categories: ["Psychology", "Communication"]
 summary: "A clear method to transform arguments into collaboration: observations without judgment, feelings, needs, and concrete requests."
 authors:
   - "marshallbrosenberg"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 3
 ---
 

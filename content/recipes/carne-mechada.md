@@ -22,14 +22,14 @@ Sobrecostilla sellada, ahogada en vino tinto y verduras hasta que se deshace sol
 
 ### Sofrito
 * **1** cebolla picada en cuadros
-* **1** cebollina picada en rodajas
+* **1** cebollín picado en rodajas
 * **1** pimiento rojo en cuadros
 * **1** pimiento verde en cuadros
 * **3** zanahorias picadas en cuadros
 * **5** dientes de ajo picados
 
 ### Reducción
-* **400-500 ml** vino tinto (ojo, no cuadre, échalo al ojo no más)
+* **400-500 ml** vino tinto (ojo, no hay que ser exacto, échalo al ojo no más)
 * **250 ml** agua con un cubo de caldo de carne diluido
 
 ### Carne
@@ -56,7 +56,7 @@ Incorpora el sofrito ya salteado a la olla con el vino y la carne. Mueve un poco
 
 ### 5. Cocinar
 - **Olla a presión:** 45 min a 10 PSI (el nivel para carne).
-- **Olla normal:** fuego bajo por 3 horas (no me acuerdo si con tapa o sin tapa, pruebe usted y me cuenta).
+- **Olla normal:** fuego bajo por 3 horas, con tapa, revisando de vez en cuando que no se quede sin líquido.
 
 ### 6. Final
 Saca la carne con cuidado y resérvala aparte. Con una minipimer, muele todo lo que quedó en la olla hasta que se haga como una papilla. Incorpora la carne de vuelta entera, sin deshilachar, la idea es que mantenga la forma y sea cada uno quien la deshilache en su plato. Y listo, eso es todo.

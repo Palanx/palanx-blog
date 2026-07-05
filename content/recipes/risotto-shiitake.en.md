@@ -10,7 +10,7 @@ showSummary: true
 summary: "Creamy rice with shiitake mushrooms, simple and comforting for any occasion."
 authors:
   - "tomasmuniz"
-showAuthorsBadges : true
+showAuthorsBadges: true
 ---
 
 {{< lead >}}

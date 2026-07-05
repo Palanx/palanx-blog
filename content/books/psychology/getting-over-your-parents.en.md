@@ -11,7 +11,7 @@ categories: ["Psychology", "Childhood Trauma"]
 summary: "How to recognize and overcome emotional patterns inherited from your family of origin."
 authors:
   - "theschooloflife"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 5
 ---
 

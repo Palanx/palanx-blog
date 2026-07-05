@@ -11,7 +11,7 @@ categories: ["Psychology", "Sexuality"]
 summary: "A warm, accessible, and exhaustive guide to sex for adults, updated with modern content like consent and digital-era dynamics."
 authors:
   - "pauljoannides"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 5
 ---
 
@@ -56,4 +56,4 @@ Those seeking formal academic text or technical manual—this is a human and acc
 
 ### Complementary Books
 - [*Models: Attract Women Through Honesty*](/en/books/relationships-and-communication/models-attract-women-through-honesty) — for an authenticity- and desire-focused approach.
-- [*El Dilema de la Pareja*](/en/books/relationships-and-communication/el-dilema-de-la-pareja) — to keep desire alive in long-term relationships.
+- [*El Dilema de la Pareja*](/en/books/relationships-and-communication/el-dilema-de-la-pareja) — to rethink infidelity and trust in relationships.

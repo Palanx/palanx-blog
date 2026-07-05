@@ -11,7 +11,7 @@ categories: ["Psychology", "Life Skills"]
 summary: "Emotional and practical tools not taught in school but essential for adult life."
 authors:
   - "theschooloflife"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 8
 ---
 

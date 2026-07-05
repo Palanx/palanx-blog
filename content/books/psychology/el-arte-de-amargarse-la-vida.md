@@ -11,7 +11,7 @@ categories: ["Psicología", "Pensamientos Dolorosos"]
 summary: "Una mirada irónica a cómo nuestros propios pensamientos y creencias nos sabotean. Muy útil para identificar patrones de pensamiento destructivos."
 authors:
   - "paulwatzlawick"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 2
 ---
 

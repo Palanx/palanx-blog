@@ -89,7 +89,7 @@ In short, this whole journey taught me that nonviolent communication isn’t abo
 
 I’ve grouped these books into categories so that each person can prioritize according to their current moment in life.  
 
-For example: if your main problem is that you don’t know how to set boundaries, it makes more sense to start with **Nonviolent Communication** before moving on to **Relationship Dynamics**. Or if your biggest struggle is intimacy, maybe a book on **Sexuality** is the best place to start.  
+For example: if your main problem is that you don’t know how to set boundaries, it makes more sense to start with **Communication** before moving on to **Emotional Attachment** or **Relationships and Desire**. Or if your biggest struggle is intimacy, maybe a book on **Sexuality** is the best place to start.  
 
 Don’t try to take it all in at once. Prioritize what is most important and urgent for your life right now.  
 

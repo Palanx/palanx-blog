@@ -11,7 +11,7 @@ categories: ["Psicología", "Comunicación"]
 summary: "Un método claro para transformar discusiones en colaboración: observaciones sin juicio, sentimientos, necesidades y pedidos concretos."
 authors:
   - "marshallbrosenberg"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 3
 ---
 

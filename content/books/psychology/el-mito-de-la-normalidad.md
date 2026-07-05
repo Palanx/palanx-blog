@@ -11,7 +11,7 @@ categories: ["Psicología", "Trauma y Estrés"]
 summary: "Cómo la cultura contemporánea modela el trauma y el estrés, y qué prácticas de reconexión ayudan a recuperar coherencia interna."
 authors:
   - "gabormate"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 3
 ---
 

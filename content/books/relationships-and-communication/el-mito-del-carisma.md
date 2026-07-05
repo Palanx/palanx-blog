@@ -11,7 +11,7 @@ categories: ["Psicología", "Comunicación"]
 summary: "Desmitifica la idea de que el carisma es un don innato y ofrece técnicas prácticas para desarrollarlo."
 authors:
   - "oliviafoxcabane"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 4
 ---
 

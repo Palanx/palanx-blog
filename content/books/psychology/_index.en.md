@@ -53,7 +53,7 @@ It’s not enough to logically understand that “I am enough to achieve what I 
 
 It’s only in that process —when what I know becomes what I feel— that we stop sabotaging ourselves, start acting according to our purpose and values, and —finally— can live without the need to please others, but ourselves instead.  
 
-That said, it’s important to clarify: severe traumas **must** be treated by psychologists specialized in trauma. Overcoming them alone is extremely difficult. That’s why I always say: therapy is not optional.  
+That said, it’s important to clarify: severe traumas **must** be treated by psychologists specialized in trauma. Overcoming them alone is extremely difficult. That’s why I always repeat: this doesn’t replace therapy — they complement each other.  
 
 ---
 

@@ -11,7 +11,7 @@ categories: ["Psychology", "Communication"]
 summary: "Debunks the idea that charisma is an innate gift and offers practical techniques to develop it."
 authors:
   - "oliviafoxcabane"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 4
 ---
 

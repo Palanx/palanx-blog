@@ -11,7 +11,7 @@ categories: ["Psicología", "Pensamientos Dolorosos"]
 summary: "Un análisis sobre el odio hacia uno mismo, sus causas y cómo reconciliarse con la propia identidad."
 authors:
   - "theschooloflife"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 7
 ---
 

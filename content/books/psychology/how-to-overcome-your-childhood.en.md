@@ -11,7 +11,7 @@ categories: ["Psychology", "Childhood Trauma"]
 summary: "A guide to understanding and rewriting the personal narrative shaped in childhood, in order to stop repeating limiting patterns."
 authors:
   - "theschooloflife"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 6
 ---
 

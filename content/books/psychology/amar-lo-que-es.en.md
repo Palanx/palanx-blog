@@ -12,7 +12,7 @@ summary: "Presents 'The Work', a method for questioning thoughts that cause suff
 authors:
   - "byronkatie"
   - "stephenmitchell"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 9
 ---
 

@@ -11,7 +11,7 @@ categories: ["Psicología", "Apego Emocional"]
 summary: "Analiza los elementos clave que sostienen relaciones sanas y cómo el apego influye en su éxito."
 authors:
   - "theschooloflife"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 11
 ---
 

@@ -24,7 +24,7 @@ Guiso de cuatro legumbres con cerdo y chorizo, ahumado con ají cacho de cabra y
 * **188 g** porotos negros
 * **188 g** porotos rojos
 * **188 g** garbanzos
-* **188 g** porotos hallado
+* **188 g** porotos hallados
 
 ### Carne
 * **900 g** filete de cerdo, en cubitos
@@ -45,8 +45,8 @@ Guiso de cuatro legumbres con cerdo y chorizo, ahumado con ají cacho de cabra y
 * **1** cabeza de ajo, picada
 * **1/2 cucharada** comino
 * **1 cucharada** cilantro deshidratado
-* Cilantro molido (a gusto)
-* Ciboulette molida (opcional, a gusto)
+* Cilantro fresco picado (opcional, a gusto)
+* Ciboulette fresca picada (opcional, a gusto)
 * Pimienta (a gusto)
 * Sal (a gusto)
 
@@ -57,7 +57,7 @@ Guiso de cuatro legumbres con cerdo y chorizo, ahumado con ají cacho de cabra y
 Remoja las [Legumbres](#legumbres) en agua fría por 24 horas. Cuando vayas a cocinar, cuélalas en un colador grande y lávalas.
 
 ### 2. Sofrito de verduras
-En un wok, agrega una buena cantidad de aceite y calienta a fuego fuerte. Sofríe la cebolla y el cebollín. Cuando la cebolla esté dorada, agrega los ajíes cacho de cabra, las guindillas, el pimentón y la zanahoria, y cocina hasta que las verduras ablanden. Agrega la panela, el comino y el cilantro deshidratado, más el cilantro molido o la ciboulette si quieres, salpimenta a gusto y sofríe hasta que quede todo mezclado. Reserva en un bowl.
+En un wok, agrega una buena cantidad de aceite y calienta a fuego fuerte. Sofríe la cebolla y el cebollín. Cuando la cebolla esté dorada, agrega el ajo y saltéalo 30 segundos. Luego agrega los ajíes cacho de cabra, las guindillas, el pimentón y la zanahoria, y cocina hasta que las verduras ablanden. Agrega la panela, el comino y el cilantro deshidratado, más el cilantro fresco picado o la ciboulette fresca si quieres, salpimenta a gusto y sofríe hasta que quede todo mezclado. Reserva en un bowl.
 
 ### 3. Carne y chorizo
 En el mismo wok, agrega otra buena cantidad de aceite y calienta a fuego fuerte. Agrega la carne de cerdo y el chorizo, salpimenta a gusto, y sofríe hasta que esté todo cocido.
@@ -69,7 +69,7 @@ En la olla a presión agrega las legumbres y 2/3 del sofrito de verduras que res
 Cuando la olla llegue a la presión que corresponde y empiece a salir vapor, baja a fuego medio y deja cocinar 30 min a 10 PSI (el nivel para carne).
 
 ### 6. Espesar y terminar
-Una vez lista y se pueda abrir la olla, saca unos 3 cucharones de la mezcla, procurando llevarte los ajíes (los cacho de cabra y las guindillas) para que queden en ese recipiente aparte, ya que se van a moler. Agrega una cucharada sopera más de solo líquido. Muele todo con una minipimer hasta lograr una papilla, y devuélvela a la olla. Agrega también el 1/3 de verduras y carne que habías reservado en el bowl. Mezcla todo y listo.
+Una vez lista y se pueda abrir la olla, saca unos 3 cucharones de la mezcla, procurando llevarte los ajíes (los cacho de cabra y las guindillas) para que queden en ese recipiente aparte, ya que se van a moler. Agrega un cucharón más de solo líquido. Muele todo con una minipimer hasta lograr una papilla, y devuélvela a la olla. Agrega también el 1/3 de verduras y carne que habías reservado en el bowl. Mezcla todo y listo.
 
 # Notas / Tips
 - El remojo de 24 horas es clave, no te lo saltes o los porotos van a quedar duros.

@@ -11,7 +11,7 @@ categories: ["Psicología", "Apego Emocional"]
 summary: "Explica la terapia de pareja basada en el apego emocional y presenta siete conversaciones clave para fortalecer el vínculo."
 authors:
   - "suejohnson"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 10
 ---
 

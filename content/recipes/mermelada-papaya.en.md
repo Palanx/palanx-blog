@@ -25,11 +25,12 @@ Papaya jam with ginger and lime, slow-cooked until it reaches the perfect consis
 * **1 teaspoon** fresh ginger, finely chopped (or grated)
 
 # Step by step
-{{< keyword icon="clock" >}} ~30 min {{< /keyword >}}
+{{< keyword icon="clock" >}} ~1 h (includes maceration) {{< /keyword >}}
 
 ### Peel the papaya and remove the seeds
 1. Peel the whole papaya with a sharp, serrated knife. If the papaya is cut open first it loses firmness, which makes peeling a pain.
 2. The inner pulp is full of seeds. Using a metal strainer to press the pulp against is an easy way to separate the seeds.
+3. Dice the papaya into roughly 1 cm cubes.
 
 ### Precise cooking
 1. Add the papaya, sugar, lime juice, and ginger to the pot.

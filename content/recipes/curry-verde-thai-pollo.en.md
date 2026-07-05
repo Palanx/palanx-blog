@@ -24,17 +24,17 @@ Chicken cooked in a creamy Thai green curry, with stir-fried vegetables and just
 * **850 g** chicken, cut into 3-4 cm pieces
 
 ### Vegetables
-* Zucchini, in thick half-moons (1-1.5 cm)
-* Eggplant, in medium cubes
-* Bell pepper, in strips
-* Green beans (optional)
+* **1** zucchini, in thick half-moons (1-1.5 cm)
+* **1** eggplant, in medium cubes
+* **1** bell pepper, in strips
+* **100 g** green beans (optional)
 
 ### Aromatics
-* Garlic, finely chopped
-* Ginger, grated
+* **3** garlic cloves, finely chopped
+* **1 piece (2 cm)** fresh ginger, grated
 
 ### Herbs
-* Thai basil **or** regular basil + crushed fennel seeds + whole star anise (substitution)
+* **1 handful (15-20 leaves)** Thai basil **or** regular basil + crushed fennel seeds + whole star anise (substitution)
 
 ### For the curry
 * **3½-4 tablespoons** green curry paste
@@ -57,10 +57,10 @@ Heat a wide pot or wok over medium-high heat and add ¾ cup of coconut milk. Don
 Add 3½-4 tablespoons of green curry paste and stir constantly for 1-2 minutes. Add the garlic, ginger, and star anise (if using the substitution). You should get a strong, herbal aroma, a more intense green color, and a slightly green oil. If it dries out, add a splash of coconut milk, never water.
 
 ### 3. Sear the chicken in the curry
-Add all the raw chicken and mix well to coat it in the curry. Cook for 2-3 minutes over medium heat: the chicken should lose its pink color on the outside without browning heavily, and the bottom of the pot shouldn't burn. Don't remove the chicken or add salt yet.
+Add all the raw chicken and mix well to coat it in the curry. Lower the heat to medium and cook for 2-3 minutes: the chicken should lose its pink color on the outside without browning heavily, and the bottom of the pot shouldn't burn. Don't remove the chicken or add salt yet.
 
 ### 4. Build the curry
-Add the rest of the coconut milk and stir gently. Lower the heat to medium and cook for 12-15 minutes without a hard boil, until you get a gentle simmer, a creamy sauce, and evenly cooked chicken.
+Add the rest of the coconut milk and stir gently. Keep the heat at medium and cook for 12-15 minutes without a hard boil, until you get a gentle simmer, a creamy sauce, and evenly cooked chicken.
 
 ### 5. Add the vegetables
 Add the eggplant and green beans (if using) first and cook for 3 minutes. Then add the zucchini and bell pepper, and cook for 2-4 more minutes, until the vegetables are tender but still have some bite.

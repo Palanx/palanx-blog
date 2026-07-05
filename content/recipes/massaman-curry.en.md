@@ -9,7 +9,7 @@ categories: ["Cooking"]
 showSummary: true
 summary: "Creamy curry sauce with mild spices, a touch of sweetness, and peanut flavor."
 authors:
-  - "palanx"
+  - "tomasmuniz"
 showAuthorsBadges: true
 ---
 
@@ -21,6 +21,7 @@ Creamy curry sauce with mild spices, a touch of sweetness, and peanut flavor.
 {{< keyword icon="user" >}} 2-3 servings {{< /keyword >}}
 
 ### Sauté
+* **1 tablespoon** vegetable oil  
 * **(optional)** **1** lemongrass stalk (the one that looks like green onion), crushed  
 * **1/2 teaspoon** fennel seeds  
 * **1** shallot, thinly sliced  
@@ -38,19 +39,20 @@ Creamy curry sauce with mild spices, a touch of sweetness, and peanut flavor.
 * **3** small carrots, peeled and cut into 2 cm cubes  
 * **1** skinless, boneless chicken breast, cut into 2 cm cubes  
 * **1 cup (250 ml)** chicken broth (or hot water with a dissolved bouillon cube)  
-* **1/2 cup (200 ml)** coconut cream (or coconut milk)  
+* **200 ml** coconut cream (or coconut milk)  
 
 ### Seasonings
 * **1/2 tablespoon** coconut sugar  
 * **1/2 tablespoon** fish sauce  
+* Fresh cilantro (optional, for garnish)  
 
 # Step by Step
 {{< keyword icon="clock" >}} 30 min {{< /keyword >}}
 
-1. Heat a pot over medium heat. Add the [Sauté](#sauté) ingredients and cook until the shallot/green onion is golden.  
+1. Heat a pot over medium heat with the oil. Add the rest of the [Sauté](#sauté) ingredients and cook until the shallot/green onion is golden.  
 2. Add the [Spices](#spices) ingredients and stir. Cook for 1-2 minutes until the peanut butter is lightly toasted.  
 3. Add the [To Boil](#to-boil) ingredients and stir. Once it reaches a gentle boil, cook for 10-15 minutes, until the potato is tender.  
-4. Turn off the heat. Add the [Seasonings](#seasonings) and stir. Serve with white rice or stir-fried vegetables.  
+4. Turn off the heat. Add the [Seasonings](#seasonings) (except the cilantro) and stir. Serve with white rice or stir-fried vegetables.  
 5. Garnish with fresh cilantro; it also adds a bit of flavor.  
 
 # Notes / Tips

@@ -11,7 +11,7 @@ categories: ["Psicología", "Relaciones y Deseos"]
 summary: "Propone un enfoque basado en la autenticidad y el crecimiento personal como la mejor manera de atraer relaciones sanas."
 authors:
   - "markmanson"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 2
 ---
 
@@ -55,5 +55,5 @@ Quien solo quiera consejos rápidos para “ligar” sin cambios personales.
 ---
 
 ### Libros complementarios
-- [*El Dilema de la Pareja*](/es/books/relationships-and-communication/el-dilema-de-la-pareja) — para comprender el deseo y la intimidad a largo plazo.
+- [*El Dilema de la Pareja*](/es/books/relationships-and-communication/el-dilema-de-la-pareja) — para repensar la confianza, el deseo y la infidelidad en la pareja.
 - [*The Secret of Successful Relationships*](/es/books/psychology/the-secret-of-successful-relationships) — para integrar expectativas realistas en las relaciones.

@@ -11,7 +11,7 @@ categories: ["Psicología", "Autoestima"]
 summary: "Explica de forma práctica los seis hábitos fundamentales que sostienen una autoestima sana, útil para procesos de sanación personal y autoconfianza."
 authors:
   - "nathanielbranden"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 1
 ---
 

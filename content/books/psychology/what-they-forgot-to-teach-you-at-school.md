@@ -11,7 +11,7 @@ categories: ["Psicología", "Habilidades de Vida"]
 summary: "Herramientas emocionales y prácticas que no se enseñan en la escuela, pero son esenciales para la vida adulta."
 authors:
   - "theschooloflife"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 8
 ---
 

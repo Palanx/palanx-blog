@@ -11,7 +11,7 @@ categories: ["Psicología", "Trauma y Estrés"]
 summary: "Cómo la represión emocional y la falta de límites personales pueden afectar la salud física."
 authors:
   - "gabormate"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 4
 ---
 

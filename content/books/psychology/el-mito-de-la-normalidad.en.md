@@ -11,7 +11,7 @@ categories: ["Psychology", "Trauma and Stress"]
 summary: "How contemporary culture shapes trauma and stress, and which reconnection practices help restore internal coherence."
 authors:
   - "gabormate"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 3
 ---
 

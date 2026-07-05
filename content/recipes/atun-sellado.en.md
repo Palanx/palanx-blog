@@ -10,7 +10,7 @@ showSummary: true
 summary: "Fresh tuna seared over high heat, golden on the outside and tender on the inside."
 authors:
   - "tomasmuniz"
-showAuthorsBadges : true
+showAuthorsBadges: true
 ---
 
 {{< lead >}}
@@ -29,7 +29,7 @@ Pairs well with [Shiitake Risotto](/en/recipes/risotto-shiitake).
 * Ground pepper
 
 # Step by step
-{{< keyword icon="clock" >}} 6 min {{< /keyword >}}
+{{< keyword icon="clock" >}} ~30 min (includes 20 min in the fridge) {{< /keyword >}}
 1. Finely chop the garlic clove.
 2. Combine all the ingredients in a small bowl and mix.
 3. Pat dry the tuna steaks with paper towels. Press each side against the paper until as dry as possible.

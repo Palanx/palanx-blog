@@ -9,7 +9,7 @@ categories: ["Cocina"]
 showSummary: true
 summary: "Salsa cremosa de curry con especias suaves, un toque dulce y a maní."
 authors:
-  - "palanx"
+  - "tomasmuniz"
 showAuthorsBadges: true
 ---
 
@@ -21,6 +21,7 @@ Salsa cremosa de curry con especias suaves, un toque dulce y a maní.
 {{< keyword icon="user" >}} 2-3 raciones {{< /keyword >}}
 
 ### Saltear
+* **1 cucharada** de aceite vegetal  
 * **(opcional)** **1** lemon grass/hierba luisa/citronela (la que parece cebollín), machacada  
 * **1/2 cucharadita** de semillas de hinojo  
 * **1** chalota, en rodajas finas  
@@ -38,19 +39,20 @@ Salsa cremosa de curry con especias suaves, un toque dulce y a maní.
 * **3** zanahorias pequeñas, peladas y en cubos de 2 cm aprox.  
 * **1** pechuga de pollo deshuesada y sin piel, en cubos de 2 cm aprox.  
 * **1 taza (250 ml)** de caldo de pollo (si no tienes, usar agua caliente con un caldo concentrado disuelto)  
-* **1/2 taza (200 ml)** de crema de coco (si no, leche de coco)  
+* **200 ml** de crema de coco (si no, leche de coco)  
 
 ### Condimentos
 * **1/2 cucharada** de azúcar de coco  
 * **1/2 cucharada** de salsa de pescado  
+* Cilantro fresco (opcional, para decorar)  
 
 # Paso a paso
 {{< keyword icon="clock" >}} 30 min {{< /keyword >}}
 
-1. Calentar una olla a fuego medio. Añadir los ingredientes de [Saltear](#saltear) y cocinar hasta que la chalota/cebollín esté dorado.  
+1. Calentar una olla a fuego medio con el aceite. Añadir el resto de los ingredientes de [Saltear](#saltear) y cocinar hasta que la chalota/cebollín esté dorado.  
 2. Añadir los ingredientes de [Especias](#especias) y mezclar. Cocinar por 1-2 min hasta que la mantequilla de maní se tueste un poco.  
 3. Incorporar los ingredientes de [A hervir](#a-hervir) y mezclar. Cuando llegue a ebullición suave, cocinar por 10-15 min, hasta que la papa esté lista.  
-4. Apagar el fuego. Añadir los ingredientes de [Condimentos](#condimentos) y mezclar. Servir con arroz blanco o verduras salteadas a gusto.  
+4. Apagar el fuego. Añadir los ingredientes de [Condimentos](#condimentos) (menos el cilantro) y mezclar. Servir con arroz blanco o verduras salteadas a gusto.  
 5. Decorar con cilantro fresco; aporta un poco de sabor también.  
 
 # Notas / Tips

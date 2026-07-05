@@ -11,7 +11,7 @@ categories: ["Psicología", "Trauma Infantil"]
 summary: "Una guía para comprender y reescribir la narrativa personal formada en la infancia, para dejar de repetir patrones limitantes."
 authors:
   - "theschooloflife"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 6
 ---
 

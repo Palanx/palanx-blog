@@ -11,7 +11,7 @@ categories: ["Psychology", "Emotional Attachment"]
 summary: "Analyzes the key elements that sustain healthy relationships and how attachment influences their success."
 authors:
   - "theschooloflife"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 11
 ---
 

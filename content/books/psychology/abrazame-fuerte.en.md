@@ -11,7 +11,7 @@ categories: ["Psychology", "Emotional Attachment"]
 summary: "Explains emotionally focused couples therapy and presents seven key conversations to strengthen the bond."
 authors:
   - "suejohnson"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 10
 ---
 

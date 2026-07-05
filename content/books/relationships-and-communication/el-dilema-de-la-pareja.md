@@ -6,54 +6,55 @@ showTableOfContents: true
 showHero: true
 backgroundImage: "img/books/el-dilema-de-la-pareja.jpg"
 showSummary: true
-tags: ["relaciones", "deseo", "pareja", "sexualidad"]
+tags: ["relaciones", "infidelidad", "pareja", "confianza"]
 categories: ["Psicología", "Relaciones y Deseos"]
-summary: "Explora la tensión entre seguridad y deseo en las relaciones a largo plazo, y cómo mantener viva la pasión sin sacrificar la estabilidad."
+summary: "Un estudio sobre la infidelidad: por qué ocurre incluso en relaciones felices, qué revela sobre el deseo y qué caminos existen después de una traición."
 authors:
   - "estherperel"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 1
 ---
 
 {{< lead >}}
-Un análisis profundo sobre cómo equilibrar el deseo erótico y la necesidad de seguridad emocional en relaciones duraderas.
+Un análisis profundo y sin juicios sobre la infidelidad: por qué ocurre, qué significa y qué puede hacer una pareja después de ella.
 {{< /lead >}}
 
 ### Tema
-Relaciones a largo plazo, deseo y compromiso.
+La infidelidad y lo que revela sobre las relaciones modernas.
 
 ### Enfoque
-Perspectiva erótica-relacional; combina psicoterapia, antropología y observaciones culturales para entender la dinámica entre pasión y estabilidad.
+Psicoterapia relacional basada en casos reales de consulta; examina la infidelidad desde ambos lados —quien la sufrió y quien la cometió— buscando comprender antes que juzgar.
 
 ### Por qué leerlo
-* Plantea preguntas incómodas sobre el amor y el deseo.
-* Ofrece estrategias para reavivar la conexión erótica en relaciones consolidadas.
-* Rompe mitos sobre la monogamia y el “para siempre”.
+* Cuestiona la mirada simplista de "víctima y villano" frente a la infidelidad.
+* Explora por qué personas en relaciones felices también son infieles.
+* Entrega un lenguaje para conversar sobre exclusividad, deseo y confianza antes (o después) de una crisis.
 
 ### Objeciones comunes
-- **“Es muy liberal”**: propone ampliar la visión del deseo, no imponer un modelo.
-- **“No da recetas rápidas”**: invita a explorar y negociar en pareja.
+- **“Justifica la infidelidad”**: no la justifica; la examina para entenderla y poder decidir con claridad.
+- **“Es incómodo de leer”**: lo es a propósito; cuestiona supuestos que casi nunca se conversan en pareja.
 
 ### Para quien
-Parejas que sienten que el deseo ha disminuido o que buscan renovar su conexión erótica.
+Personas que vivieron una infidelidad —desde cualquier lado— y quieren entender qué pasó, o parejas que prefieren conversar la exclusividad antes de que se convierta en crisis.
 
 ### Para quien no
-Quien no quiera cuestionar modelos tradicionales de amor y sexualidad.
+Quien busque una condena moral simple o una fórmula infalible para “blindar” su relación.
 
 ---
 
 ### Ideas clave
-- El deseo requiere distancia y novedad, incluso dentro de una relación estable.
-- Seguridad y pasión no siempre coexisten de forma natural.
-- La intimidad erótica es una habilidad que se puede cultivar.
+- La infidelidad también ocurre en relaciones felices; no siempre es síntoma de una pareja rota.
+- Muchas veces habla menos de sexo y más de un anhelo de vitalidad, novedad o de reencontrarse con una versión perdida de uno mismo.
+- Después de una infidelidad, una relación puede terminar, sobrevivir o transformarse en una versión nueva y más honesta.
+- La confianza y la exclusividad no se asumen: se conversan y se redefinen.
 
 ### Cómo aplicarlo
-- Introducir experiencias nuevas y compartidas.
-- Mantener espacios individuales para alimentar la autonomía.
-- Hablar abiertamente sobre fantasías y necesidades.
+- Conversa con tu pareja qué significa fidelidad para cada uno, sin asumir que comparten la misma definición.
+- Si hubo una infidelidad, explora primero su significado (qué buscaba, qué faltaba) antes de decidir el futuro de la relación.
+- Redefine acuerdos y límites de forma explícita en cada etapa de la relación.
 
 ---
 
 ### Libros complementarios
-- [*Models: Attract Women Through Honesty*](/es/books/relationships-and-communication/models-attract-women-through-honesty) — para un enfoque en autenticidad y deseo.
-- [*Guide to Getting It On*](/es/books/relationships-and-communication/guide-to-getting-it-on-10th) — para ampliar el repertorio sexual con respeto y humor.
+- [*Abrázame fuerte: Siete Conversaciones*](/es/books/psychology/abrazame-fuerte) — para reparar y reconectar el vínculo.
+- [*Guide to Getting It On*](/es/books/relationships-and-communication/guide-to-getting-it-on-10th) — para trabajar la intimidad y la sexualidad en pareja.

@@ -11,7 +11,7 @@ categories: ["Psychology", "Trauma and Stress"]
 summary: "How emotional repression and the lack of personal boundaries can affect physical health."
 authors:
   - "gabormate"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 4
 ---
 

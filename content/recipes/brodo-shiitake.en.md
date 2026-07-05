@@ -10,7 +10,7 @@ showSummary: true
 summary: "The broth water is used for preparations that require stock, and it’s more flavorful than dehydrated stock powders."
 authors:
   - "tomasmuniz"
-showAuthorsBadges : true
+showAuthorsBadges: true
 ---
 
 {{< lead >}}
@@ -31,7 +31,7 @@ The remaining cooked ingredients can be blended and reused for stews or braised 
 
 # Step by step
 {{< keyword icon="clock" >}} 90 min {{< /keyword >}}
-1. Add all the ingredients to a pot and bring to a boil over high heat.
-2. Once boiling, reduce to low heat and simmer uncovered for 1.5 hours.
-3. Your broth is ready.
-4. Separate the onion layers from the quarters. Char each piece on both sides over an open flame. If you don’t have direct flame, you can use an oven with aluminum foil to roast them.
+1. Separate the onion layers from the quarters and char each piece on both sides over an open flame. If you don’t have direct flame, you can use an oven with aluminum foil to roast them.
+2. Add all the ingredients to a pot and bring to a boil over high heat.
+3. Once boiling, reduce to low heat and simmer uncovered for 1.5 hours.
+4. Your broth is ready.

@@ -1,5 +1,5 @@
 ---
-title: "Vinculos y Comunicación"
+title: "Vínculos y Comunicación"
 date: 2025-08-10T02:31:26-04:00
 draft: false
 showTableOfContents: false
@@ -89,7 +89,7 @@ En resumen, todo este camino me enseñó que la comunicación no violenta no se 
 
 Clasifiqué estos libros en categorías. La idea es que cada persona pueda priorizar según su momento actual.  
 
-Por ejemplo: si tu problema es que no sabes poner límites, tiene más sentido empezar por **Comunicación no violenta** antes que por **Dinámicas de pareja**. O si tu mayor dificultad es la intimidad, quizá quieras comenzar por un libro de **Sexualidad**.  
+Por ejemplo: si tu problema es que no sabes poner límites, tiene más sentido empezar por **Comunicación** antes que por **Apego Emocional** o **Relaciones y Deseos**. O si tu mayor dificultad es la intimidad, quizá quieras comenzar por un libro de **Sexualidad**.  
 
 No intentes abarcar todo de golpe. Prioriza lo más importante y lo más urgente para tu vida de hoy.  
 

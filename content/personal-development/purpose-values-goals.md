@@ -11,7 +11,7 @@ categories: ["Desarrollo Personal"]
 summary: "Una reflexión sobre qué son el propósito, los valores y las metas, y cómo cada uno cumple un rol distinto en darle dirección y sentido a la vida."
 authors:
   - "tomasmuniz"
-showAuthorsBadges : true
+showAuthorsBadges: true
 weight: 1
 ---
 
