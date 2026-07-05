@@ -155,6 +155,9 @@
   {{- if $socialRes -}}
     {{- /* Page resource found (assets pipeline) */ -}}
     {{- $imgURL = ($socialRes.RelPermalink | absURL) -}}
+  {{- else if and .Params.backgroundImage (resources.Get .Params.backgroundImage) -}}
+    {{- /* Post's backgroundImage from front matter (lives in /assets) */ -}}
+    {{- $imgURL = ((resources.Get .Params.backgroundImage).RelPermalink | absURL) -}}
   {{- else -}}
     {{- with .Site.Params.defaultSocialImage -}}
       {{- /* If absolute URL, use as-is; otherwise build absolute from baseURL (works for /static paths) */ -}}
