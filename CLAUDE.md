@@ -47,6 +47,8 @@ Write the ES + EN Markdown files directly (following the matching archetype's st
 
 No separate index/menu file to update per post — sections list their content automatically (see menus in `config/_default/menus.*.toml`, which only link to sections, not individual pages). Setting `draft: false` and filling required front matter is what gets a post into the build (`buildDrafts = false`).
 
+**Always validate the front-matter `date` against the real current time** (run `date +"%Y-%m-%dT%H:%M:%S %z"`, don't guess/reuse a stale date from earlier in the conversation) before writing it — `buildFuture = false` in `hugo.toml` silently drops any content dated after "now" from the build, so a future timestamp makes a `draft: false` post invisible with no error.
+
 ## Architecture / how the pieces fit
 
 **Language routing (bilingual site):** `defaultContentLanguage = "es"` with `defaultContentLanguageInSubdir = true` (config/_default/hugo.toml). Spanish content lives at `content/**/foo.md` and is served under `/es/...`; the English counterpart is the same path with `.en` before the extension (`foo.en.md`), served under `/en/...`. Per-language site params (author bio, social links, date format) live in `config/_default/languages.es.toml` / `languages.en.toml`; per-language menus in `menus.es.toml` / `menus.en.toml`. UI string translations are in `i18n/es.yaml` / `i18n/en.yaml`. When adding a page, section `_index`, or menu entry, both language variants need to be kept in sync or the site will show a broken/missing translation for that language.
